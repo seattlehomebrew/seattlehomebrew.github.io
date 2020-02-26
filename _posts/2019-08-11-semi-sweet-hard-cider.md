@@ -48,7 +48,7 @@ If you let cider ferment until the yeast stops, you will end up with a dry cider
 
 I do this by transferring the cider to a keg when the gravity gets to around 1.010-1.015 and then sticking the keg in the fridge to drop the temperature. Previously, I would monitor the gravity by pulling a sample every couple of days after the first week of fermentation. This time I used a new [Tilt Hydrometer](https://tilthydrometer.com) to watch the gravity in real time in a Google Sheets chart. You can see the chart (which gave live updates every fifteen minutes) below.
 
-
+<iframe width="586" height="313.46092321755026" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSC7HQPwgU-gws50qs8Ifb9dVc7nOcxzbd8QPQJXnlvn-2X_HIOhePjHNtFOWlLrroAeYvRWYi9HGO1/pubchart?oid=1926483484&amp;format=interactive"></iframe>
 
 _(Whoops! The big jump in the middle is when the app tracking the hydrometer data lost its WiFi connection.)_
 
