@@ -12,7 +12,7 @@ tags:
   - Barrel-Aged
   - Buster Brown
 ---
-![Barrel Post]({{ site.baseurl }}/images/posts/barrel-fb-cropped-480x480.png)
+![Dry Fly Facebook Post]({{ site.baseurl }}/images/posts/barrel-fb-cropped-450x480.png)
 
 On September 20, 2010 our friend Kolbe was driving through Eastern Washington and e-mailed us asking if we wanted him to pick up a 15-gallon oak barrel from Dry Fly Distilling used to age their Wheat Whiskey.
 
@@ -25,6 +25,6 @@ But we said yes.
 And so it began.
 
 
-<img class="aligncenter" src="{{ site.baseurl }}/images/posts/barrel-2-669x500.jpeg" /> 
+![Barry and Buster Brown]({{ site.baseurl }}/images/posts/barrel-2-669x500.jpeg)
 
-<img class="aligncenter" src="{{ site.baseurl }}/images/posts/barrel-3-669x500.jpeg" />
+![]({{ site.baseurl }}/images/posts/barrel-3-669x500.jpeg)
