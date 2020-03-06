@@ -15,7 +15,7 @@ tags:
   - Brew Day
   - Saison
 ---
-<img src="/wp-content/uploads/2013/07/p72801761-667x500.jpg" class="aligncenter" />
+![Ginger Saison (without Ginger)]({{ site.baseurl }}/images/posts/ginger-saison-2011-1-667x500.jpg)
 
 Today we wanted to do a Saison&#8211;something substantially different from [The Hopfather](http://seattlehomebrew.com/2011/06/03/the-hopfather-part-ii-brewday/), but still light enough for easy summer drinking.
 
@@ -83,4 +83,4 @@ We followed the Ginger Saison recipe from Sam Calagione&#8217;s [_Extreme Brewin
   * **Bottle bombs!**  
     So it seems as though we didn&#8217;t let it ferment long enough and the yeast didn&#8217;t get very much work done. That is, until the weather got warmer after the beer was all bottled&#8230; Roughly half of the batch exploded one morning within a period of 5 minutes. I guess the lesson is to always let your beer ferment completely and <u>know your yeast</u>.
 
-<img src="/wp-content/uploads/2013/07/p72701681-667x500.jpg"class="aligncenter" />
+![]({{ site.baseurl }}/images/posts/ginger-saison-2011-2-667x500.jpg)

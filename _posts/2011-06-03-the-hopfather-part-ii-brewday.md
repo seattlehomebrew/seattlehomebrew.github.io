@@ -15,7 +15,7 @@ tags:
   - Brew Day
   - IPA
 ---
-<img src="/wp-content/uploads/2013/07/hopfather-seattle-homebrew-5-754x500.jpg" class="aligncenter" />
+![The Hopfather]({{ site.baseurl }}/images/posts/hopfather-seattle-homebrew-5-754x500.jpg)
 
 This is the real Hopfather recipe from Sam Calagione&#8217;s _[Extreme Brewing](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934)_ (see our [failed attempt here](/2011/04/30/the-hopfather-hop-slurry-brew-day)). We went back to trusty old extract brewing for this batch and it was _much_ easier and _much_ less stressful.
 
@@ -38,11 +38,11 @@ This is the real Hopfather recipe from Sam Calagione&#8217;s _[Extreme Brewing](
 
 We had these amazing labels that were made incorrectly, thinking the name of the beer was &#8220;Hot Father&#8221; instead of &#8220;Hopfather.&#8221; At first taste, the beer is fantastic and hoppy but needs a little more time to carbonate. 
 
-<img src="/wp-content/uploads/2013/07/hopfather-seattle-homebrew-1-754x500.jpg" class="aligncenter" /> 
+![]({{ site.baseurl }}/images/posts/hopfather-seattle-homebrew-1-754x500.jpg)
 
 ### Brewing Notes
 
-<img src="/wp-content/uploads/2013/07/hopfather-seattle-homebrew-14-332x500.jpg" class="alignright" /> 
+![]({{ site.baseurl }}/images/posts/hopfather-seattle-homebrew-14-332x500.jpg)
 
 ##### Timeline<section class="brewtable"> 
 

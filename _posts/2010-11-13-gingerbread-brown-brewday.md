@@ -16,7 +16,7 @@ tags:
   - Brown Ale
   - Gingerbread
 ---
-<img src="/wp-content/uploads/2013/10/5272449163_c3b796147d_o.jpg" alt="Gingerbread Brown" class="aligncenter" />
+![Gingerbread Brown]({{ site.baseurl }}/images/posts/gingerbread-brown-2010.jpg)
 
 We came up with this recipe while looking for inspiration to brew something up for the winter holidays. We followed the recipe for the **Old Nut Case Brown Ale** on page 92 of [_Radical Brewing_](http://www.amazon.com/gp/product/0937381837/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0937381837&linkCode=as2&tag=seatthomeb-20&linkId=PDKKMIHJRLMGK5IU) and added the seasonal **Gingerbread Ale** spices as described on page 169.
 

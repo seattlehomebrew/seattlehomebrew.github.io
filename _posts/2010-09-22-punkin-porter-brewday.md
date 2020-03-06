@@ -16,7 +16,7 @@ tags:
   - Porter
   - Pumpkin
 ---
-<img src="/wp-content/uploads/2013/09/5127640636_5d935b005a_o.jpg" class="aligncenter" alt="Punkin' Porter" />
+![Punkin' Porter]({{ site.baseurl }}/images/posts/punkin-porter-2010.jpg)
 
 We&#8217;re trying the Punkin&#8217; Porter recipe out of [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB).
 
