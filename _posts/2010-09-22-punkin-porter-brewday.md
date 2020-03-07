@@ -18,11 +18,11 @@ tags:
 ---
 ![Punkin' Porter]({{ site.baseurl }}/images/posts/punkin-porter-2010.jpg)
 
-We&#8217;re trying the Punkin&#8217; Porter recipe out of [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB).
+We're trying the Punkin' Porter recipe out of [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB).
 
 <!--more-->
 
-### Results<section class="brewtable"> 
+### Results
 
 ##### Overview
 
@@ -33,11 +33,11 @@ We&#8217;re trying the Punkin&#8217; Porter recipe out of [_Extreme Brewing_](ht
   * Final gravity (actual) 
       * Oops! N/A
   * Final gravity (expected) 
-      * 1.014</section> 
+      * 1.014
 
 **Over-spiced and under-pumpkined, but still not bad!**
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -61,16 +61,16 @@ We&#8217;re trying the Punkin&#8217; Porter recipe out of [_Extreme Brewing_](ht
 
 ##### Other
 
-  * 2x 15 oz cans of Libby&#8217;s pumpkin purée 
+  * 2x 15 oz cans of Libby's pumpkin purée 
     
   * 1 tsp allspice (dried/ground) 
       * 5 minutes
   * 1 tsp cinnamon (dried/ground) 
       * 5 minutes
   * 1 tsp nutmeg (dried/ground) 
-      * 5 minutes</section> 
+      * 5 minutes
 
-### Brewing Notes<section class="brewtable"> 
+### Brewing Notes
 
 ##### Timeline
 
@@ -81,13 +81,13 @@ We&#8217;re trying the Punkin&#8217; Porter recipe out of [_Extreme Brewing_](ht
   * Bottled 
       * October 13, 2010
   * Tasted 
-      * October 29, 2010</section> 
+      * October 29, 2010
 
 In bullet hole form:
 
-  * Used 2x 15oz cans of Libby&#8217;s pumpkin
+  * Used 2x 15oz cans of Libby's pumpkin
   * Hallertau hops not available. We used Mt Hood instead.
-  * Did not use cloth bag for grain. We just mixed pumpkin and grain to make pre-boil tea. Strained through strainer + cheesecloth and think we lost a lot of pumpkin &#8220;sludge&#8221;
+  * Did not use cloth bag for grain. We just mixed pumpkin and grain to make pre-boil tea. Strained through strainer + cheesecloth and think we lost a lot of pumpkin "sludge"
   * Sparged the grain (+ pumpkin) and got out a lot more color (and, presumably, sugar)
   * Started a separate ~4 gallon water boil with the gypsum
   * Mixed pre-boil tea with gypsum water and topped off to 5.5 gal before malt addition. Recipe said to only top off to 4.5. Bad idea After adding malt, we are up to 6-7 gal. Boiled water for ~1 hour extra to get down to 5-5.5 gal before adding the hops
