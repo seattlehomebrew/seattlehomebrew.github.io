@@ -16,7 +16,7 @@ tags:
   - Brew Day
   - IPA
 ---
-<img src="http://farm3.static.flickr.com/2690/5794782187_1dee3b998d.jpg" class="aligncenter" /></a>
+<img src="http://farm3.static.flickr.com/2690/5794782187_1dee3b998d.jpg" class="aligncenter" />
 
 This was a disaster.
 
