@@ -23,7 +23,7 @@ This is the real Hopfather recipe from Sam Calagione&#8217;s _[Extreme Brewing](
 
 ### Results
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual, 4.5 gal) 
       * 1.106 **!!**
@@ -32,11 +32,11 @@ This is the real Hopfather recipe from Sam Calagione&#8217;s _[Extreme Brewing](
   * Final gravity (actual) 
       * 1.022
   * Final gravity (expected) 
-      * 1.012-1.014</section> 
+      * 1.012-1.014
 
-<img src="http://farm7.static.flickr.com/6052/5901588359_d2685d9ed0.jpg" alt="The Hop (Hot) Father by dpdearing" class="aligncenter" /> 
+<img src="http://farm7.static.flickr.com/6052/5901588359_d2685d9ed0.jpg" alt="The Hop (Hot) Father" class="aligncenter" /> 
 
-We had these amazing labels that were made incorrectly, thinking the name of the beer was &#8220;Hot Father&#8221; instead of &#8220;Hopfather.&#8221; At first taste, the beer is fantastic and hoppy but needs a little more time to carbonate. 
+These amazing labels were made for us, thinking the name of the beer was "Hot Father" instead of "Hopfather"; At first taste, the beer is fantastic and hoppy but needs a little more time to carbonate. 
 
 ![]({{ site.baseurl }}/images/posts/hopfather-seattle-homebrew-1-754x500.jpg)
 
@@ -44,7 +44,7 @@ We had these amazing labels that were made incorrectly, thinking the name of the
 
 ![]({{ site.baseurl }}/images/posts/hopfather-seattle-homebrew-14-332x500.jpg)
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * June 3, 2011
@@ -56,4 +56,4 @@ We had these amazing labels that were made incorrectly, thinking the name of the
   * Bottled 
       * June 30, 2011
   * Tasted 
-      * July 4, 2011</section>
+      * July 4, 2011
