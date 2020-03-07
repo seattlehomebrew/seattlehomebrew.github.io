@@ -22,11 +22,11 @@ Our first attempt at homebrewing was a kit for an Amber Ale from Lazy Boy Brewin
 
 ### Results
 
-Homebrew Success!!! Just cracked open my first bottle of the Lazy Amber. It sounded right, smells right and looks right. And it even tastes&#8230;sorta right.
+Homebrew Success!!! Just cracked open my first bottle of the Lazy Amber. It sounded right, smells right and looks right. And it even tastes...sorta right.
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * September 1, 2010
