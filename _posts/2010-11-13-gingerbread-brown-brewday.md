@@ -24,7 +24,7 @@ We came up with this recipe while looking for inspiration to brew something up f
 
 ### Results
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual) 
       * 1.063
@@ -33,11 +33,11 @@ We came up with this recipe while looking for inspiration to brew something up f
   * Final gravity (actual) 
       * ???
   * Final gravity (expected) 
-      * 1.017</section> 
+      * 1.017
 
-This is an odd one. Smells like ginger. Really bubbly&#8230;almost dirty or grimey&#8230;mouthfeel. Not sure how I feel about this one yet.
+This is an odd one. Smells like ginger. Really bubbly–almost dirty or grimey–mouthfeel. Not sure how I feel about this one yet.
 
-### Brewing Notes<section class="brewtable"> 
+### Brewing Notes
 
   * Brewed on 
       * November 13, 2010
@@ -46,7 +46,7 @@ This is an odd one. Smells like ginger. Really bubbly&#8230;almost dirty or grim
   * Bottled on 
       * December 4, 2010
   * Tasted on 
-      * December 18, 2010</section> 
+      * December 18, 2010
 
 The only notes I have beyond the recipe listed in the book is:
 
