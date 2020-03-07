@@ -22,22 +22,22 @@ This was a disaster.
 
 <!--more-->
 
-Our first attempt at the Hopfather was an all-grain a &#8220;Hop Slurry&#8221; homebrewing distaster, but actually turned into something that resembles beer. That said, it&#8217;s not much for flavor or strength.
+Our first attempt at the Hopfather was an all-grain a "Hop Slurry" homebrewing distaster, but actually turned into something that resembles beer. That said, it's not much for flavor or strength.
 
 ### Results
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (expected) 
       * 1.066-1.069
   * Final gravity (expected) 
-      * 1.012-1.014</section> 
+      * 1.012-1.014
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * April 30, 2011
   * Tasted 
-      * June 3, 2011</section>
+      * June 3, 2011
