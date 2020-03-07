@@ -17,13 +17,13 @@ tags:
 ---
 ![Ginger Saison (without Ginger)]({{ site.baseurl }}/images/posts/ginger-saison-2011-1-667x500.jpg)
 
-Today we wanted to do a Saison&#8211;something substantially different from [The Hopfather](http://seattlehomebrew.com/2011/06/03/the-hopfather-part-ii-brewday/), but still light enough for easy summer drinking.
+Today we wanted to do a Saison–something substantially different from [The Hopfather](http://seattlehomebrew.com/2011/06/03/the-hopfather-part-ii-brewday/), but still light enough for easy summer drinking.
 
-We followed the Ginger Saison recipe from Sam Calagione&#8217;s [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB), but did not include the ginger because we&#8217;ve had some less-than-pleasant results when using ginger in the past. Two recipes that included ginger&#8211;the [Gingerbread Brown](http://seattlehomebrew.com/2010/11/13/gingerbread-brown-brewday/) and a Fruitcake beer&#8211;were both overwhelmingly gingery. This time we just wanted a nice easy-to-drink Saison.
+We followed the Ginger Saison recipe from Sam Calagione's [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB), but did not include the ginger because we've had some less-than-pleasant results when using ginger in the past. Two recipes that included ginger–the [Gingerbread Brown](http://seattlehomebrew.com/2010/11/13/gingerbread-brown-brewday/) and a Fruitcake beer–were both overwhelmingly gingery. This time we just wanted a nice easy-to-drink Saison.
 
 <!--more-->
 
-### Results<section class="brewtable"> 
+### Results
 
 ##### Overview
 
@@ -34,9 +34,9 @@ We followed the Ginger Saison recipe from Sam Calagione&#8217;s [_Extreme Brewin
   * Final gravity (actual): 
       * 1.032 (no ginger)
   * Final gravity (expected): 
-      * 1.015 (with ginger)</section> 
+      * 1.015 (with ginger)
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -59,11 +59,10 @@ We followed the Ginger Saison recipe from Sam Calagione&#8217;s [_Extreme Brewin
   * 1 lb Belgian candi sugar 
       * 15 minutes
   * <strike>2 oz crystallized ginger</strike> 
-      * </section> 
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * June 10, 2011
@@ -72,7 +71,7 @@ We followed the Ginger Saison recipe from Sam Calagione&#8217;s [_Extreme Brewin
   * Bottled 
       * June 23, 2011 (?)
   * Tasted 
-      * July 28, 2011</section> 
+      * July 28, 2011
 
   * **Low wort volume**  
     We started our boil with roughly 5 gallons (instead of the 4.5 in the recipe) and had one boil-over.  We added an extra 1/2-3/4 gallon of water at the end of the boil. After transferring to the carboy we were still at only 4.5 gallons so we topped off to just under 5. Unfortunately, we measured the gravity before this final top-off.
@@ -81,6 +80,6 @@ We followed the Ginger Saison recipe from Sam Calagione&#8217;s [_Extreme Brewin
     > This strain is notorious for a rapid and vigorous start to fermentation, **only to stick around 1.035 S.G.** Fermentation will finish, **given time and warm temperatures.** Warm fermentation temperatures, at least 90°F (32°C), or the use of a secondary strain can accelerate attenuation.
 
   * **Bottle bombs!**  
-    So it seems as though we didn&#8217;t let it ferment long enough and the yeast didn&#8217;t get very much work done. That is, until the weather got warmer after the beer was all bottled&#8230; Roughly half of the batch exploded one morning within a period of 5 minutes. I guess the lesson is to always let your beer ferment completely and <u>know your yeast</u>.
+    So it seems as though we didn't let it ferment long enough and the yeast didn't get very much work done. That is, until the weather got warmer after the beer was all bottled... Roughly half of the batch exploded one morning within a period of 5 minutes. I guess the lesson is to always let your beer ferment completely and _know your yeast_.
 
 ![]({{ site.baseurl }}/images/posts/ginger-saison-2011-2-667x500.jpg)
