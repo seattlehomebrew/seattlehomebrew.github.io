@@ -16,7 +16,7 @@ tags:
 
 On September 20, 2010 our friend Kolbe was driving through Eastern Washington and e-mailed us asking if we wanted him to pick up a 15-gallon oak barrel from Dry Fly Distilling used to age their Wheat Whiskey.
 
-He wasn&#8217;t serious. 
+He wasn't serious. 
 
 <!--more-->
 

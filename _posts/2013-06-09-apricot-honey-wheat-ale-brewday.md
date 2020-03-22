@@ -39,7 +39,7 @@ The first bottle that I tasted was the last bottle that I filled and had nearly 
 
 **Update July 10, 2013:** The second bottle for opened is from the middle of the bottling process and has much less sediment. It is less tart and tastes much better overall! Good apricot aroma and not overpowering with the apricot. Much better
 
-**Update August 17, 2013:** Different bottles have been pretty hit-or-miss. I think that we didn&#8217;t let it settle enough after transferring to the bottling bucket&#8211;especially because we kept disturbing it by adding more apricot extract and re-stirring after each addition. We were probably too impatient.
+**Update August 17, 2013:** Different bottles have been pretty hit-or-miss. I think that we didn't let it settle enough after transferring to the bottling bucket&#8211;especially because we kept disturbing it by adding more apricot extract and re-stirring after each addition. We were probably too impatient.
 
 <img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mo5rpj1K2E1studqio1_12801-667x500.jpg" /> 
 
@@ -76,7 +76,7 @@ The first bottle that I tasted was the last bottle that I filled and had nearly 
   * ~3 lbs fresh apricot
   * 4 oz apricot extract 
 
-I wish I had used less of the CaraVienna malt (maybe only 0.25-0.5 lbs). It would have kept the color lighter and I’m worried that the Honey malt will make it too sweet/caramelly. (**Update:** This wasn&#8217;t a problem after all. Too _bitter_ if anything)
+I wish I had used less of the CaraVienna malt (maybe only 0.25-0.5 lbs). It would have kept the color lighter and I’m worried that the Honey malt will make it too sweet/caramelly. (**Update:** This wasn't a problem after all. Too _bitter_ if anything)
 
 For the yeast I also considered 2565 Kolsch (for fruitiness) and 1010 American Wheat (but didn’t want any banana/clove).
 
@@ -97,7 +97,7 @@ For the yeast I also considered 2565 Kolsch (for fruitiness) and 1010 American W
 
   * **The wort is a very pretty color!**
   * **Very little aroma and bitter**  
-    The wort has little to no aroma; I probably had less than the planned 0.25oz each for the final hop addition. The wort also tastes more bitter than I expected (especially the lingering flavor), but could just be because it&#8217;s still wort.
+    The wort has little to no aroma; I probably had less than the planned 0.25oz each for the final hop addition. The wort also tastes more bitter than I expected (especially the lingering flavor), but could just be because it's still wort.
   * **Apricot purée**  
     We added the apricot puree after a week, but could have done it as early as 3 days. I had expected that the sugar from the apricots would cause the wort to start fermenting again, but I never noticed any bubbles or activity.
   * **Apricot extract**  

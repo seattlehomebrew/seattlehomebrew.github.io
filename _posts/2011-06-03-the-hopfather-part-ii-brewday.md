@@ -17,7 +17,7 @@ tags:
 ---
 ![The Hopfather]({{ site.baseurl }}/images/posts/hopfather-seattle-homebrew-5-754x500.jpg)
 
-This is the real Hopfather recipe from Sam Calagione&#8217;s _[Extreme Brewing](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934)_ (see our [failed attempt here](/2011/04/30/the-hopfather-hop-slurry-brew-day)). We went back to trusty old extract brewing for this batch and it was _much_ easier and _much_ less stressful.
+This is the real Hopfather recipe from Sam Calagione's _[Extreme Brewing](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934)_ (see our [failed attempt here](/2011/04/30/the-hopfather-hop-slurry-brew-day)). We went back to trusty old extract brewing for this batch and it was _much_ easier and _much_ less stressful.
 
 <!--more-->
 

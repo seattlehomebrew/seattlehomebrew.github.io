@@ -17,7 +17,7 @@ tags:
 ---
 <img src="/wp-content/uploads/2016/08/14980711_1153562208060795_7630834096804504387_n-500x500.jpg" class="aligncenter" />
 
-For our annual pumpkin beer this year, we wanted to try something new. Jer found this article about [designing the perfect pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/), and the mention of a Belgian pumpkin ale sparked our interest. Maybe we&#8217;ll get more pumpkin flavor with a lighter beer (compared to our usual [Punkin&#8217; Porter](/category/brews/punkin-porter/) recipe).
+For our annual pumpkin beer this year, we wanted to try something new. Jer found this article about [designing the perfect pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/), and the mention of a Belgian pumpkin ale sparked our interest. Maybe we'll get more pumpkin flavor with a lighter beer (compared to our usual [Punkin' Porter](/category/brews/punkin-porter/) recipe).
 
 See all of our previous [Pumpkin Beers here](/tag/pumpkin/)
 
@@ -81,11 +81,11 @@ See all of our previous [Pumpkin Beers here](/tag/pumpkin/)
   </tr>
 </table>
 
-It&#8217;s not bad, but it&#8217;s not great. Much better than we expected when tasting the beer during bottling. It wasn&#8217;t fully carbonated when cracking open the first bottle after 12 days, but was on its way.
+It's not bad, but it's not great. Much better than we expected when tasting the beer during bottling. It wasn't fully carbonated when cracking open the first bottle after 12 days, but was on its way.
 
 I think my favorite year so far has been the [2013 batch](http://seattlehomebrew.com/2013/09/14/2013-punkin-porter-brewday/).
 
-**_Update:_** After another week or so the beer did get carbonated and is actually pretty good. It&#8217;s got **a lot of pumpkin flavor and a lot of spice**. Maybe too much squash flavor. I wouldn&#8217;t repeat this recipe exactly, but it&#8217;s much better than the brew notes (below) were predicting.
+**_Update:_** After another week or so the beer did get carbonated and is actually pretty good. It's got **a lot of pumpkin flavor and a lot of spice**. Maybe too much squash flavor. I wouldn't repeat this recipe exactly, but it's much better than the brew notes (below) were predicting.
 
 ## Recipe
 
@@ -167,7 +167,7 @@ We started with the clone recipe for the Double Enghien Blonde Ale in the [Clone
   <table class="brewtable">
     <tr>
       <td>
-        5x 15 oz cans of Farmer&#8217;s Market organic pumpkin purée
+        5x 15 oz cans of Farmer's Market organic pumpkin purée
       </td>
     </tr>
     
@@ -260,12 +260,12 @@ We started with the clone recipe for the Double Enghien Blonde Ale in the [Clone
   
   <ul>
     <li>
-      <strong>We changed our pumpkin strategy this year.</strong> For all of our previous pumpkin beers, we steeped the pumpkin purée along with crushed grain and removed it for the full boil.<br /> <br /> This year we added the pumpkin late, at 15 minutes as suggested in the <a href="https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/">designing perfect pumpkin beer</a> article. This makes sense because that&#8217;s when you add the flavoring hops. We used five 15 oz cans of pumpkin purée (75 oz), which is about 4½ pounds.
+      <strong>We changed our pumpkin strategy this year.</strong> For all of our previous pumpkin beers, we steeped the pumpkin purée along with crushed grain and removed it for the full boil.<br /> <br /> This year we added the pumpkin late, at 15 minutes as suggested in the <a href="https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/">designing perfect pumpkin beer</a> article. This makes sense because that's when you add the flavoring hops. We used five 15 oz cans of pumpkin purée (75 oz), which is about 4½ pounds.
     </li>
     <li>
-      <strong>No spices during brewing.</strong> Usually we add spices right near the end of brewing. Instead, we&#8217;re going off of one of the <a href="https://www.homebrewersassociation.org/how-to-brew/5-tips-brewing-pumpkin-beers-elysian-brewing-co/">tips on brewing pumpkin beer</a> from Elysian founder Dick Cantwell and head brewer Steve Luke, the kings of pumpkin beers.<br /> <br /> Our plan is to instead add the spices just before bottling, after tasting the beer and deciding on what combination of the &#8220;faithful 5&#8221; (cinnamon, nutmeg, allspice, ginger and clove) will go well with this beer. We&#8217;ll find out if it&#8217;s ok to add the spices and bottle without letting it rest first.
+      <strong>No spices during brewing.</strong> Usually we add spices right near the end of brewing. Instead, we're going off of one of the <a href="https://www.homebrewersassociation.org/how-to-brew/5-tips-brewing-pumpkin-beers-elysian-brewing-co/">tips on brewing pumpkin beer</a> from Elysian founder Dick Cantwell and head brewer Steve Luke, the kings of pumpkin beers.<br /> <br /> Our plan is to instead add the spices just before bottling, after tasting the beer and deciding on what combination of the &#8220;faithful 5&#8221; (cinnamon, nutmeg, allspice, ginger and clove) will go well with this beer. We'll find out if it's ok to add the spices and bottle without letting it rest first.
     </li>
     <li>
-      <strong>This might be terrible.</strong> It took us forever to schedule a day to bottle this beer and when we finally did, we were not happy with the flavor. Sour? Off flavors? Dirty squash aftertaste? So we didn&#8217;t care to try multiple spice combinations and just added ~1 teaspoon of each of the &#8220;faithful 5&#8221; spices, except for allspice (½ tsp) which we&#8217;ve found to be overpowering in the past.
+      <strong>This might be terrible.</strong> It took us forever to schedule a day to bottle this beer and when we finally did, we were not happy with the flavor. Sour? Off flavors? Dirty squash aftertaste? So we didn't care to try multiple spice combinations and just added ~1 teaspoon of each of the &#8220;faithful 5&#8221; spices, except for allspice (½ tsp) which we've found to be overpowering in the past.
     </li>
   </ul>

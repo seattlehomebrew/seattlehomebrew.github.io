@@ -15,9 +15,9 @@ tags:
 ---
 <img class="alignleft" style="width:368px;" src="http://seattlehomebrew.com/wp-content/uploads/2013/07/1016904_10102192219401648_765203798_n1.jpg" />
 
-This is a late brew using last year&#8217;s (2012) hop harvest.
+This is a late brew using last year's (2012) hop harvest.
 
-We followed the same recipe as the [2011 Harvest Backyard Pale](/2012/02/backyard-pale-2011-harvest-brewday/), but with a different hop breakdown. I didn&#8217;t write down which yeast we used last time, so I got one package of American Ale yeast for this batch.
+We followed the same recipe as the [2011 Harvest Backyard Pale](/2012/02/backyard-pale-2011-harvest-brewday/), but with a different hop breakdown. I didn't write down which yeast we used last time, so I got one package of American Ale yeast for this batch.
 
 <!--more-->
 
@@ -34,7 +34,7 @@ We followed the same recipe as the [2011 Harvest Backyard Pale](/2012/02/backyar
   * ABV 
       * ~6% 
 
-Wow! This year&#8217;s version of the Backyard &#8220;Pale&#8221; **tastes completely different** from the [2011 Harvest](/2012/02/backyard-pale-2011-harvest-brewday/). It tastes like a yeasty _Belgian_ instead of a Pale Ale. And holy hell is it bubbly!
+Wow! This year's version of the Backyard &#8220;Pale&#8221; **tastes completely different** from the [2011 Harvest](/2012/02/backyard-pale-2011-harvest-brewday/). It tastes like a yeasty _Belgian_ instead of a Pale Ale. And holy hell is it bubbly!
 
 **Not a bad brew, but not at all what we were expecting.**
 
@@ -74,7 +74,7 @@ Wow! This year&#8217;s version of the Backyard &#8220;Pale&#8221; **tastes compl
       * August 19, 2013 
           * </ul> </ul>  
           * **Wrong yeast?**  
-            I didn&#8217;t know which yeast we used for the 2011 Harvest, so I guessed that we used the generic American Ale yeast (Wyeast 1056). The flavor is very yeasty, but I&#8217;m surprised if this flavor came from the American Ale yeast.  It would make more sense if I had used a Belgian yeast.
+            I didn't know which yeast we used for the 2011 Harvest, so I guessed that we used the generic American Ale yeast (Wyeast 1056). The flavor is very yeasty, but I'm surprised if this flavor came from the American Ale yeast.  It would make more sense if I had used a Belgian yeast.
           * **Wrong malt?  
 ** The old brewing notes said &#8220;light DME&#8221; but my options were Amber or Pilsen Light. I went with Pilsen Light instead of the darker Amber, so maybe that is the culprit?
         

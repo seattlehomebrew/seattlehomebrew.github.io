@@ -17,7 +17,7 @@ tags:
 ---
 <img class="aligncenter" src="/wp-content/uploads/2013/07/400606_10101980607318958_309843603_n1-755x500.jpg" />
 
-We&#8217;re brewing **four** batches to fill a [13.5 gallon Dry Fly Wheat Whiskey barrel](/category/the-story-of-barry/?order=ASC)! That should give us enough (~16 gallons or so) to fill the barrel and have extra to top off and maybe keep some as a control batch.
+We're brewing **four** batches to fill a [13.5 gallon Dry Fly Wheat Whiskey barrel](/category/the-story-of-barry/?order=ASC)! That should give us enough (~16 gallons or so) to fill the barrel and have extra to top off and maybe keep some as a control batch.
 
 For our barrel project we decided on the recipe from [_The Homebrewer’s Recipe Guide_](http://www.amazon.com/gp/product/0684829215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684829215&linkCode=as2&tag=seatthomeb-20&linkId=BFPVAFDIITPWS7ZF) that we used on [our first test batch](/2012/11/canadian-imperial-stout-brewday).
 
@@ -100,7 +100,7 @@ Four simultaneous brew stations! Offset by ~20 minutes each.
 
 <img class="alignnone" src="/wp-content/uploads/2013/07/21183_10101980606834928_81079713_n1-e1467438451182-473x500.jpg" /> 
 
-We split the four batches across five carboys. Most were 5-gallon carboys, which didn&#8217;t hold a full batch during primary fermentation of [our earlier test batch](/2012/11/canadian-imperial-stout-brewday/).
+We split the four batches across five carboys. Most were 5-gallon carboys, which didn't hold a full batch during primary fermentation of [our earlier test batch](/2012/11/canadian-imperial-stout-brewday/).
 
 <img class="aligncenter" src="/wp-content/uploads/2013/09/IMG_05881-e1380086115403-667x500.jpg" /> 
 

@@ -1,6 +1,6 @@
 ---
 id: 777
-title: '2012 Punkin&#8217; Porter'
+title: '2012 Punkin' Porter'
 date: 2012-09-15T12:00:40+00:00
 author: Dave
 layout: post
@@ -22,8 +22,8 @@ As usual, for 2012 we once again followed the <a href="http://rcm.amazon.com/e/
 
 Previous batches:
 
-  * [2011 Punkin&#8217; Porter](/2011/09/punkin-porter-brewday-2011/)
-  * [2010 Punkin&#8217; Porter](/2010/09/punkin-porter-brewday/)
+  * [2011 Punkin' Porter](/2011/09/punkin-porter-brewday-2011/)
+  * [2010 Punkin' Porter](/2010/09/punkin-porter-brewday/)
 
 <!--more-->
 
@@ -42,7 +42,7 @@ Previous batches:
 
 The initial tasting was thick and chunky, but very nice on the pumpkin flavor. Spices seemed to be well-balanced.
 
-**_Update:_** After a little time in the bottle, this batch got a real earthy flavor that was unpleasant. I&#8217;m guessing this was the pumpkin seeds but could have been any part of the fully roasted pumpkin. Maybe stick to the pumpkin flesh in the future.
+**_Update:_** After a little time in the bottle, this batch got a real earthy flavor that was unpleasant. I'm guessing this was the pumpkin seeds but could have been any part of the fully roasted pumpkin. Maybe stick to the pumpkin flesh in the future.
 
 <img src="/wp-content/uploads/2013/07/dsc020511-752x500.jpg" alt="" class="aligncenter" /> 
 
@@ -70,9 +70,9 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
 
 ##### Other
 
-  * 2x 15 oz cans of Libby&#8217;s pumpkin purée 
+  * 2x 15 oz cans of Libby's pumpkin purée 
     
-  * 1x 29 oz can of Libby&#8217;s pumpkin purée 
+  * 1x 29 oz can of Libby's pumpkin purée 
     
   * 0.5 tsp allspice (dried/ground) 
       * 5 minutes
@@ -100,10 +100,10 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
     We cut a small (3.25 pound) pumpkin into small slices and baked it for an hour at 350 degrees. We also baked the seeds at 350 degrees for about 10-12 minutes for extra roastiness. </p> 
     Both the pumpkin and seeds went into the pre-boil tea with the grains for about 45 minutes.</li> 
     
-      * **We also used Libby&#8217;s canned pumpkin**  
+      * **We also used Libby's canned pumpkin**  
         We used _59 ounces_&#8211;even more than last year&#8211;and put into a muslin bag and added to the standard wort boil at the 60 minute mark.
       * **We used less allspice again**  
-        We used 1 tsp of cinnamon, 1 tsp of nutmeg and 0.5 tsp of allspice. The 0.5 tsp of allspice is half of the 1 tsp in the directions. We liked how [last year&#8217;s batch](/2011/09/punkin-porter-brewday-2011/) tasted with a little less allspice and mainly wanted to increase the pumpkin flavor. We again used pre-ground/dried spices this time.
+        We used 1 tsp of cinnamon, 1 tsp of nutmeg and 0.5 tsp of allspice. The 0.5 tsp of allspice is half of the 1 tsp in the directions. We liked how [last year's batch](/2011/09/punkin-porter-brewday-2011/) tasted with a little less allspice and mainly wanted to increase the pumpkin flavor. We again used pre-ground/dried spices this time.
       * The starting volume was roughly 20 quarts (5 gallons) prior to adding any malt.
       * We actually followed the directions for the Cascade, the Hallertau, and the spices. No substitutions this year.
       * We added some extra plain water that was boiling on the stove near the end of the boil to raise the volume.

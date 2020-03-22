@@ -18,7 +18,7 @@ tags:
 
 ### Half-Batch Brewing
 
-I&#8217;m trying out brewing a <a href="http://byo.com/stories/item/1378-small-scale-brewing" target="_blank">small (half) batch recipe</a> because this recipe might not be any good. Even if it is good, I don&#8217;t know that I want a full 5 gallons of this, so I just split the recipe in half and left all of the timings the same.
+I'm trying out brewing a <a href="http://byo.com/stories/item/1378-small-scale-brewing" target="_blank">small (half) batch recipe</a> because this recipe might not be any good. Even if it is good, I don't know that I want a full 5 gallons of this, so I just split the recipe in half and left all of the timings the same.
 
 A 2.5 gallon batch seemed like an easy task for the kitchen stove. Unfortunately, bringing 2.5 gallons to a boil took a lot longer on the stove than with the turkey fryer!
 
@@ -43,11 +43,11 @@ A 2.5 gallon batch seemed like an easy task for the kitchen stove. Unfortunately
 
 Initially I think it tastes a bit watery and I did not notice much apple or brown sugar flavor. Maybe the lack of apple flavor is from using a mesh grain sack to keep the mess contained? But the lack of other strong flavor means that the flavors are just too subtle overall and need to be increased for my liking.
 
-**Update:** I don&#8217;t know if it got better with more time in the bottle or if the flavor grew on me, but I liked this beer the more I drank it. The apple flavor is subtle, but it is there. I don&#8217;t know if I would make this again, but everyone else seemed to like it quite a bit.
+**Update:** I don't know if it got better with more time in the bottle or if the flavor grew on me, but I liked this beer the more I drank it. The apple flavor is subtle, but it is there. I don't know if I would make this again, but everyone else seemed to like it quite a bit.
 
 ### Recipe
 
-This recipe is from [_The Homebrewer&#8217;s Recipe Guide_](http://www.amazon.com/gp/product/0684829215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684829215&linkCode=as2&tag=seatthomeb-20&linkId=LYRBZP5QN7XKUUPI). The main recipe (not including the puree) is pretty simple:
+This recipe is from [_The Homebrewer's Recipe Guide_](http://www.amazon.com/gp/product/0684829215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684829215&linkCode=as2&tag=seatthomeb-20&linkId=LYRBZP5QN7XKUUPI). The main recipe (not including the puree) is pretty simple:
 
 ##### Malt
 
@@ -107,4 +107,4 @@ This recipe is from [_The Homebrewer&#8217;s Recipe Guide_](http://www.amazon.co
     I cut the apples into chunks and discarded the cores before puréeing. Just like the apricot purée for the [Apricot Honey Wheat Ale](http://seattlehomebrew.com/2013/06/09/apricot-honey-wheat-ale-brewday), I heated the apple purée to ~160-170 degrees to get rid of any baddies. After cooling a bit, I put the apple purée in a mesh grain sack (to keep it from turning into a huge mess) added it to the secondary fermentation. I also added a single cinnamon stick.</li> 
     
       * **Transfer and add purée**  
-        I don&#8217;t usually transfer for secondary fermentation. But since the primary was in a carboy I did transfer to a bucket for secondary fermentation because of the apple purée. One week later (August 1) I pulled the sack of apple purée out of the fermentation bucket, but left the beer (and cinnamon stick) for another few days.</ul>
+        I don't usually transfer for secondary fermentation. But since the primary was in a carboy I did transfer to a bucket for secondary fermentation because of the apple purée. One week later (August 1) I pulled the sack of apple purée out of the fermentation bucket, but left the beer (and cinnamon stick) for another few days.</ul>

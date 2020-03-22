@@ -20,7 +20,7 @@ I wanted to brew a simple German Hefeweizen with lots of banana and clove flavor
 
 ### Results
 
-**Although easy to make, this brew is very disappointing.** It doesn&#8217;t have much banana or clove flavor and still tastes overly yeasty. It&#8217;s just not at all what I was trying for.
+**Although easy to make, this brew is very disappointing.** It doesn't have much banana or clove flavor and still tastes overly yeasty. It's just not at all what I was trying for.
 
 ##### Overview
 
@@ -35,7 +35,7 @@ I wanted to brew a simple German Hefeweizen with lots of banana and clove flavor
 
 I had some concern over the final gravity reading. It was _extremely_ high on the first reading. Then I removed and replaced the hydrometer and the gravity dropped, but was still pretty high.
 
-Maybe it wasn&#8217;t quite done fermenting yet? It had been 12 days. Or maybe the yeast stopped working and needed a higher temperature? My basement is generally a pretty steady fermenting temperature.
+Maybe it wasn't quite done fermenting yet? It had been 12 days. Or maybe the yeast stopped working and needed a higher temperature? My basement is generally a pretty steady fermenting temperature.
 
 <img src="http://seattlehomebrew.com/wp-content/uploads/2016/06/IMG_4892_4893-800x500.jpg" class="aligncenter" /> 
 
@@ -118,14 +118,14 @@ Maybe it wasn&#8217;t quite done fermenting yet? It had been 12 days. Or maybe t
     
       * **I think it tastes buttery.** Maybe the buttery flavor is diacetyl? Did I pitch yeast at too high of a temperature? From a [HomeBrewTalk thread about diacetyl problems](http://www.homebrewtalk.com/showthread.php?t=243976#post2899774):
         
-        > My guess on the hefe is that you pitched too warm (crucial to pitch low for the weihenstephan yeast), the temp increased a lot during fermentation, and once the bulk of fermentation is was cooled too quickly. Like if room temp was 65, you pitched at 70, temp rises to 75+, then goes drops down to room temp. It would be best to pitch at 60 to 65, let it rise to 67 or so, and hold it there, or even raise the temp a little bit as time goes on. That&#8217;s just a guess. There is so much yeast in suspension you shouldnt have much diacetyl. This makes me think it could be caused by an infection, and not a product of fermentation. 
+        > My guess on the hefe is that you pitched too warm (crucial to pitch low for the weihenstephan yeast), the temp increased a lot during fermentation, and once the bulk of fermentation is was cooled too quickly. Like if room temp was 65, you pitched at 70, temp rises to 75+, then goes drops down to room temp. It would be best to pitch at 60 to 65, let it rise to 67 or so, and hold it there, or even raise the temp a little bit as time goes on. That's just a guess. There is so much yeast in suspension you shouldnt have much diacetyl. This makes me think it could be caused by an infection, and not a product of fermentation. 
     
-      * After brewing I noted that I wasn&#8217;t sure if I trusted the reading on our temperature laser. It seems like the wort temperature cooled down too quickly and might be higher than it says.
+      * After brewing I noted that I wasn't sure if I trusted the reading on our temperature laser. It seems like the wort temperature cooled down too quickly and might be higher than it says.
     
       * Several homebrew threads seem to indicate that after the initial fermentation **many brewers using the Weihenstephan yeast will raise the fermentation temperature and underpitch the yeast** to get more banana flavors (but beware that this could also increase other esters (like bubblegum) and reduce the clove balance).
         
         I considered moving the carboy out of the basement to the warmer upstairs area, but never actually did it because the initial fermentation seemed so vigorous. Maybe raising the temperature would have also helped with the off flavors?
     
-      * **It tastes weak.** Another sign that I probably didn&#8217;t let it ferment long enough.
+      * **It tastes weak.** Another sign that I probably didn't let it ferment long enough.
     
-      * This was such a simple recipe that I&#8217;d like to try again. Leave it for longer to make sure fermentation is done and maybe bring it upstairs for the warmer ambient temperature.
+      * This was such a simple recipe that I'd like to try again. Leave it for longer to make sure fermentation is done and maybe bring it upstairs for the warmer ambient temperature.

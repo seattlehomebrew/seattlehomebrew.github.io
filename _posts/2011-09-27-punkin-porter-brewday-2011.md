@@ -1,6 +1,6 @@
 ---
 id: 508
-title: '2011 Punkin&#8217; Porter'
+title: '2011 Punkin' Porter'
 date: 2011-09-27T17:30:10+00:00
 author: Dave
 layout: post

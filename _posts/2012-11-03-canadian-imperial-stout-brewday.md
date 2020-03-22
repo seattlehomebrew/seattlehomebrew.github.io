@@ -40,7 +40,7 @@ This is our first test beer as a candidate for [barrel aging](/category/the-stor
 
 It tastes real good and real boozy! 
 
-**This might be my favorite beer that we&#8217;ve ever brewed.**
+**This might be my favorite beer that we've ever brewed.**
 
 ### Recipe
 

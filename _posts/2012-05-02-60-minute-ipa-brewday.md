@@ -44,7 +44,7 @@ The beautiful and delicious 60 Minute IPA. We followed the _[Extreme Brewing](h
 
 ### Brewing Notes
 
-Unfortunately, we didn&#8217;t take a lot of notes on this one, so I&#8217;m not sure if we had any substitutions or not.
+Unfortunately, we didn't take a lot of notes on this one, so I'm not sure if we had any substitutions or not.
 
 ##### Timeline
 

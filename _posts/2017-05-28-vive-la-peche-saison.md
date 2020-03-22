@@ -86,7 +86,7 @@ To make things interesting, I want to add peaches during fermentation, so this i
 
 <img src="/wp-content/uploads/2017/07/PeachSaison-2b-667x500.jpg" class="aligncenter" /> 
 
-I used up a bunch of old hops for this, so they weren&#8217;t as fresh as you&#8217;d hope. But the homebrew shop was out of the Styrian Golding hops that I had hoped to use.
+I used up a bunch of old hops for this, so they weren't as fresh as you'd hope. But the homebrew shop was out of the Styrian Golding hops that I had hoped to use.
 
 #### Malts and Sugars
 
@@ -234,4 +234,4 @@ I used up a bunch of old hops for this, so they weren&#8217;t as fresh as you&#8
   </tr>
 </table> 
 
-_**Note:** Unfortunately, I lost the original version of this post so I don&#8217;t have any tasting notes. I think it turned out fine, but could use improvement._
+_**Note:** Unfortunately, I lost the original version of this post so I don't have any tasting notes. I think it turned out fine, but could use improvement._

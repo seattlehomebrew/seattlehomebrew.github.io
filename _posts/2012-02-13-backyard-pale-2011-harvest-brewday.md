@@ -18,7 +18,7 @@ tags:
 
 A simple Pale Ale brewed using only the homegrown Centennial and Cascade hops from my first year backyard hop harvest.
 
-The label in the picture above doesn&#8217;t show clearly, but it&#8217;s actually this picture:
+The label in the picture above doesn't show clearly, but it's actually this picture:
 
 <!--more-->
 
@@ -35,7 +35,7 @@ The label in the picture above doesn&#8217;t show clearly, but it&#8217;s actual
   * ABV 
       * ~6% 
 
-**It&#8217;s actually quite good! Very easy to drink.**
+**It's actually quite good! Very easy to drink.**
 
 ### Recipe
 
@@ -60,7 +60,7 @@ The recipe was very simple:
 ##### Yeast
 
   * 1 package Wyeast  
-    (Whoops! I didn&#8217;t note which kind) 
+    (Whoops! I didn't note which kind) 
 
 <img class="aligncenter" src="/wp-content/uploads/2013/07/img_02681-667x500.jpg" alt="Gravity: 1.062" /> 
 

@@ -18,7 +18,7 @@ tags:
 ---
 <img class="aligncenter" src="/wp-content/uploads/2013/07/img_0021-e13728793715961.jpg" />
 
-We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934) but instead of out-of-season blood oranges we used in-season heirloom navel oranges. We know that it won&#8217;t be much like the recipe, but it still sounds good.
+We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934) but instead of out-of-season blood oranges we used in-season heirloom navel oranges. We know that it won't be much like the recipe, but it still sounds good.
 
 <!--more-->
 
@@ -37,7 +37,7 @@ We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](http
   * Final gravity (expected) 
       * 1.012 
 
-The beer wasn&#8217;t fully carbonated when we first tasted it (see picture at top). That was after only about a week in the bottle, but once it did carbonate it was tasty.
+The beer wasn't fully carbonated when we first tasted it (see picture at top). That was after only about a week in the bottle, but once it did carbonate it was tasty.
 
 ### Recipe
 
@@ -82,5 +82,5 @@ The beer wasn&#8217;t fully carbonated when we first tasted it (see picture at t
 
   * For the Hallertau we substituted German Herbrucker hops, which are a spicier version of Hallertau.
   * No other substitutions noted (except for the oranges, of course).
-  * We used a plastic fermentation bucket so that we didn&#8217;t have to worry about getting the orange pieces out of a carboy.    
+  * We used a plastic fermentation bucket so that we didn't have to worry about getting the orange pieces out of a carboy.    
     Good decision.

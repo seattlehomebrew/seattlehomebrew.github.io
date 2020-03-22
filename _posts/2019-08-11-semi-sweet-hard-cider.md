@@ -15,11 +15,11 @@ tags:
 ---
 [<img src="/wp-content/uploads/2018/10/43499799534_762a874db8_b-750x500.jpg" class="aligncenter" />](https://www.flickr.com/photos/observerxtra/43499799534/)
 
-Brewing a hard cider is pretty easy. You get some apple cider, add some yeast, and wait. The yeast does all of the work and eventually turns all of the sugars into alcohol, leaving you with a nice dry hard cider. Here&#8217;s a great primer on [Cider for Beginners](https://www.homebrewtalk.com/forum/threads/cider-for-beginners.508303/).
+Brewing a hard cider is pretty easy. You get some apple cider, add some yeast, and wait. The yeast does all of the work and eventually turns all of the sugars into alcohol, leaving you with a nice dry hard cider. Here's a great primer on [Cider for Beginners](https://www.homebrewtalk.com/forum/threads/cider-for-beginners.508303/).
 
-Luckily, getting my hands on some fresh cider is pretty easy. A local brew shop, [Sound Homebrew](http://soundhomebrew.com), does an annual pre-sale of fresh-pressed, unpasteurized cider juice from a Washington farm. I just take in a clean carboy and they fill it up. Beyond that, all that&#8217;s needed is yeast and time.
+Luckily, getting my hands on some fresh cider is pretty easy. A local brew shop, [Sound Homebrew](http://soundhomebrew.com), does an annual pre-sale of fresh-pressed, unpasteurized cider juice from a Washington farm. I just take in a clean carboy and they fill it up. Beyond that, all that's needed is yeast and time.
 
-Making _semi-sweet_ cider is a little bit harder. I&#8217;ve done this twice, but never wrote up my notes. This time I&#8217;m writing up my old notes prior to making another batch this Fall. 
+Making _semi-sweet_ cider is a little bit harder. I've done this twice, but never wrote up my notes. This time I'm writing up my old notes prior to making another batch this Fall. 
 
 The main questions for making semi-sweet cider are:
 
@@ -30,9 +30,9 @@ The main questions for making semi-sweet cider are:
 
 #### Choosing a Yeast
 
-This isn&#8217;t specific to semi-sweet cider, but since yeast is the only thing added to your cider it will have the most impact on how your cider tastes (aside from the apples, obviously).
+This isn't specific to semi-sweet cider, but since yeast is the only thing added to your cider it will have the most impact on how your cider tastes (aside from the apples, obviously).
 
-I searched a bunch of online forums and dug up some notes on different yeasts. CvilleKevin over in the HomeBrewTalk forums has some crazy in-depth notes about cider and yeasts. He tried and wrote [notes for 80 different combinations here](https://www.homebrewtalk.com/forum/threads/results-from-juice-yeast-and-sugar-experiments.83060/) and wrote up <a notes here</a> and [updated notes here](https://www.homebrewtalk.com/forum/threads/results-from-juice-yeast-and-sugar-experiments.83060/page-21#post-5710045). He posts a ton of extra information in that thread if you&#8217;re willing to dig around.
+I searched a bunch of online forums and dug up some notes on different yeasts. CvilleKevin over in the HomeBrewTalk forums has some crazy in-depth notes about cider and yeasts. He tried and wrote [notes for 80 different combinations here](https://www.homebrewtalk.com/forum/threads/results-from-juice-yeast-and-sugar-experiments.83060/) and wrote up <a notes here</a> and [updated notes here](https://www.homebrewtalk.com/forum/threads/results-from-juice-yeast-and-sugar-experiments.83060/page-21#post-5710045). He posts a ton of extra information in that thread if you're willing to dig around.
 
 My own short list of yeasts to try was:
 
@@ -40,11 +40,11 @@ My own short list of yeasts to try was:
   * **Safale S-04** &#8211; Target FG around 1.002-1.012. Has the finish/mouthfeel of a dry cider, but with more apple flavor. No blowoff tube needed.
   * **Wyeast 3068 (Weihenstephan Wheat Yeast)** &#8211; Crowd-pleaser. Good for a sweet cider with an FG in the 1.020&#8209;1.025 range. Not good below 1.012. Needs a blowoff tube for a full carboy.
 
-I didn&#8217;t want an overly sweet cider, so I ruled out Wyeast 3068 (too high of a final gravity). I ended up deciding on Wyeast 3056 (which CvilleKevin listed as his favorite our of these three), but would have grabbed Safale S-04 if the homebrew store was out of the Wyeast packs.
+I didn't want an overly sweet cider, so I ruled out Wyeast 3068 (too high of a final gravity). I ended up deciding on Wyeast 3056 (which CvilleKevin listed as his favorite our of these three), but would have grabbed Safale S-04 if the homebrew store was out of the Wyeast packs.
 
 #### Keeping it Sweet
 
-If you let cider ferment until the yeast stops, you will end up with a dry cider. One way to get a sweeter cider is to add more sugar after fermentation is complete (sometimes called &#8220;backsweetening&#8221;). However, you might lose some of the apple flavor by letting the yeast work until it&#8217;s all done. An alternative is to stop the fermentation early to prevent the yeast from eating up all of that good natural sugar in the cider. You can do this by &#8220;cold crashing&#8221; the cider to stop the yeast. 
+If you let cider ferment until the yeast stops, you will end up with a dry cider. One way to get a sweeter cider is to add more sugar after fermentation is complete (sometimes called &#8220;backsweetening&#8221;). However, you might lose some of the apple flavor by letting the yeast work until it's all done. An alternative is to stop the fermentation early to prevent the yeast from eating up all of that good natural sugar in the cider. You can do this by &#8220;cold crashing&#8221; the cider to stop the yeast. 
 
 I do this by transferring the cider to a keg when the gravity gets to around 1.010-1.015 and then sticking the keg in the fridge to drop the temperature. Previously, I would monitor the gravity by pulling a sample every couple of days after the first week of fermentation. This time I used a new [Tilt Hydrometer](https://tilthydrometer.com) to watch the gravity in real time in a Google Sheets chart. You can see the chart (which gave live updates every fifteen minutes) below.
 
@@ -194,4 +194,4 @@ This sugar addition had nothing to do with wanting sweeter cider, and was done s
   </tr>
 </table>
 
-I&#8217;ve done this twice (in 2016 and 2018) and used Wyeast 3056 both times. They turned out great and were very easy to make. This year I will try Safale S-04 if it&#8217;s available. It would be fun to try a side-by-side, but I would need some small one-gallon containers to transfer into for cold crashing.
+I've done this twice (in 2016 and 2018) and used Wyeast 3056 both times. They turned out great and were very easy to make. This year I will try Safale S-04 if it's available. It would be fun to try a side-by-side, but I would need some small one-gallon containers to transfer into for cold crashing.

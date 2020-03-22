@@ -35,7 +35,7 @@ This is our second test beer as a candidate for [barrel aging](/category/the-sto
 
 The first tasting of the Tipsy Trappist was disappointing and flat.
 
-It&#8217;s terrible!
+It's terrible!
 
 Merry Christmas
 
@@ -81,7 +81,7 @@ Merry Christmas
   * Tasted 
       * December 24, 2012 
 
-This recipe is a partial mash, which we’ve never done before but doesn’t seem too complicated: [Partial Mashing (BeerSmith)](http://beersmith.com/blog/2009/05/14/partial-mashing/). Maybe that was our downfall or we weren&#8217;t careful enough with keeping it clean.
+This recipe is a partial mash, which we’ve never done before but doesn’t seem too complicated: [Partial Mashing (BeerSmith)](http://beersmith.com/blog/2009/05/14/partial-mashing/). Maybe that was our downfall or we weren't careful enough with keeping it clean.
 
 We sparged for 90 minutes in 2 gallons of water at 155 degrees in a blue picnic cooler. Then added up to a total of 6 gallons to start the wort.
 
