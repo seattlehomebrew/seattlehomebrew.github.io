@@ -16,7 +16,7 @@ tags:
   - Hefeweizen
   - Orange
 ---
-<img class="aligncenter" src="/wp-content/uploads/2013/07/img_0021-e13728793715961.jpg" />
+![Orange Hefeweizen]({{ site.baseurl }}/images/posts/orange-hefeweizen-2012-1.jpg)
 
 We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934) but instead of out-of-season blood oranges we used in-season heirloom navel oranges. We know that it won't be much like the recipe, but it still sounds good.
 
@@ -24,7 +24,7 @@ We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](http
 
 ### Results
 
-<img class="alignleft" src="/wp-content/uploads/2013/07/img_04431-375x500.jpg" alt="Final Gravity: 1.015?" /> 
+![Final Gravity: 1.015?]({{ site.baseurl }}/images/posts/orange-hefeweizen-2012-2.jpg)
 
 ##### Overview
 
@@ -67,7 +67,7 @@ The beer wasn't fully carbonated when we first tasted it (see picture at top). T
 
 ### Brewing Notes
 
-<img class="alignright" src="/wp-content/uploads/2013/07/img_04391-375x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/orange-hefeweizen-2012-3-375x500.jpg)
 
 ##### Timeline
 
