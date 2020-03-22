@@ -16,7 +16,7 @@ tags:
   - Porter
   - Pumpkin
 ---
-<img src="/wp-content/uploads/2013/09/6508865635_8b337240a4_o.jpg" class="aligncenter" />
+![Punkin' Porter]({{ site.baseurl }}/images/posts/punkin-porter-2011.jpg)
 
 [Last year's Pumpkin Porter](/2010/09/22/punkin-porter-brewday) was too spicy and did not have very much pumpkin flavor. We're hoping to balance the flavor out this year.
 
