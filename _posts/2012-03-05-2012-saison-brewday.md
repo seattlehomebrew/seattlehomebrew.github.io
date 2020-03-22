@@ -21,7 +21,7 @@ This is the 2012 version of the [(Exploding) Ginger Saison without Ginger](/2011
 
 <!--more-->
 
-### Results<section class="brewtable"> 
+### Results
 
 ##### Overview
 
@@ -32,11 +32,11 @@ This is the 2012 version of the [(Exploding) Ginger Saison without Ginger](/2011
   * Final gravity (expected) 
       * 1.015 (with ginger)
   * Final gravity (actual) 
-      * 1.010 (no ginger)</section> 
+      * 1.010 (no ginger) 
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed on 
       * March 5, 2012
@@ -45,4 +45,4 @@ This is the 2012 version of the [(Exploding) Ginger Saison without Ginger](/2011
   * Bottled on 
       * March 29, 2012
   * Tasted on 
-      * April 13, 2012</section>
+      * April 13, 2012

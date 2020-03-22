@@ -29,7 +29,7 @@ The beautiful and delicious 60 Minute IPA. We followed the _[Extreme Brewing](h
 
 ##### Overview
 
-<section class="brewtable"> 
+
 
   * Starting gravity (actual) 
       * 1.070
@@ -38,15 +38,15 @@ The beautiful and delicious 60 Minute IPA. We followed the _[Extreme Brewing](h
   * Final gravity (actual) 
       * 1.020
   * Final gravity (expected) 
-      * 1.017</section> 
+      * 1.017 
 
-### Recipe<section class="brewtable"> </section> 
+### Recipe 
 
 ### Brewing Notes
 
 Unfortunately, we didn&#8217;t take a lot of notes on this one, so I&#8217;m not sure if we had any substitutions or not.
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * May 2, 2012
@@ -57,4 +57,4 @@ Unfortunately, we didn&#8217;t take a lot of notes on this one, so I&#8217;m not
   * Bottled 
       * May 26, 2012
   * Tasted 
-      * June 8, 2012</section>
+      * June 8, 2012

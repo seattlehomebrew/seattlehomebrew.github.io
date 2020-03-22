@@ -26,7 +26,7 @@ We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](http
 
 <img class="alignleft" src="/wp-content/uploads/2013/07/img_04431-375x500.jpg" alt="Final Gravity: 1.015?" /> 
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual) 
       * 1.056
@@ -35,11 +35,11 @@ We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](http
   * Final gravity (actual) 
       * 1.015
   * Final gravity (expected) 
-      * 1.012</section> 
+      * 1.012 
 
 The beer wasn&#8217;t fully carbonated when we first tasted it (see picture at top). That was after only about a week in the bottle, but once it did carbonate it was tasty.
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -63,13 +63,13 @@ The beer wasn&#8217;t fully carbonated when we first tasted it (see picture at t
 ##### Other
 
   * 4 average sized blood oranges  
-    **(used Heirloom Navel Oranges)**</section> 
+    **(used Heirloom Navel Oranges)** 
 
 ### Brewing Notes
 
 <img class="alignright" src="/wp-content/uploads/2013/07/img_04391-375x500.jpg" /> 
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * May 26, 2012
@@ -78,7 +78,7 @@ The beer wasn&#8217;t fully carbonated when we first tasted it (see picture at t
   * Bottled 
       * June 15, 2012
   * Tasted 
-      * June 23, 2012</section> 
+      * June 23, 2012 
 
   * For the Hallertau we substituted German Herbrucker hops, which are a spicier version of Hallertau.
   * No other substitutions noted (except for the oranges, of course).

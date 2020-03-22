@@ -21,7 +21,7 @@ I was running out of time to brew a beer this summer that would be ready in time
 
 <!--more-->
 
-### Results<section class="brewtable"> 
+### Results
 
 ##### Overview
 
@@ -34,7 +34,7 @@ I was running out of time to brew a beer this summer that would be ready in time
   * Final gravity (actual): 
       * 1.015
   * ABV 
-      * 7.22%</section> 
+      * 7.22% 
 
 It&#8217;s bitter with a not-too-strong aroma. Very dirty with sediment on the first few pours from the keg, but seems to get better over time. It&#8217;s actually quite bitter. Unfortunately I don&#8217;t detect a lot of jasmine&#8211;just a hint. But it&#8217;s a good IPA. Real clean flavor, which I don&#8217;t always get for my beers. Despite not picking up a lot of jasmine flavor, I&#8217;m pretty happy with this beer. 
 
@@ -57,7 +57,7 @@ That would explain the bitterness.
 
 <img src="http://seattlehomebrew.com/wp-content/uploads/2016/08/IMG_5147-667x500.jpg" class="aligncenter" /> 
 
-Here is the recipe that I used, which differs slightly from both of those links. I stuck with Elysian&#8217;s Chinook hops, but did only use 2 oz. I think this was a good decision.<section class="brewtable"> 
+Here is the recipe that I used, which differs slightly from both of those links. I stuck with Elysian&#8217;s Chinook hops, but did only use 2 oz. I think this was a good decision.
 
 ##### Malt
 
@@ -86,7 +86,7 @@ Here is the recipe that I used, which differs slightly from both of those links.
 
 ##### Yeast
 
-  * 2 packs Wyeast 1056 American Ale</section> 
+  * 2 packs Wyeast 1056 American Ale 
 
   * For the recipe&#8217;s &#8220;Light Dextrin Malt (Carahell)&#8221; I used what was marked as Dextrin Malt and was [actually Carapils 1.5L](http://www.cellar-homebrew.com/shop/Dextrin-Carapils-Malt.html). Carapils is apparently not the same, since [Carahell is just a trade name for Weyermann&#8217;s Caramel 10L](http://www.weyermann.de/eng/produkte.asp?idkat=18&umenue=yes&idmenue=&sprache=2). Confusing and lame, but it&#8217;s not going to make a big difference at such small amounts.
   * I&#8217;m using 40L Crystal Malt instead of 45L Crystal Malt. Again, it&#8217;s not going to make a difference at these small amounts.
@@ -94,7 +94,7 @@ Here is the recipe that I used, which differs slightly from both of those links.
   * There weren&#8217;t any Glacier hops available so I went with Willamette, which I&#8217;m pretty happy with and think will turn out well.
   * I might be a little under 2oz of dried jasmine flowers, but I cleaned out the store. Big thanks to [Dandelion Botanical Company](http://www.dandelionbotanical.com) that I even found that much! And for the super-reasonable price of roughly $3. Also, thanks to the guys at [Cellar Homebrew](http://cellar-homebrew.com) for pointing me in the right direction.
 
-### Brewing Notes<section class="brewtable"> 
+### Brewing Notes
 
 ##### Timeline
 
@@ -105,7 +105,7 @@ Here is the recipe that I used, which differs slightly from both of those links.
       * Kegged 
           * August 21, 2016
       * Tasted 
-          * August 27, 2016</ul> </section> 
+          * August 27, 2016</ul>  
 <img src="http://seattlehomebrew.com/wp-content/uploads/2016/08/IMG_5146-576x500.jpg" class="aligncenter" /> 
     
     **Stovetop Brewing:**

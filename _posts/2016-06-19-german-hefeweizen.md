@@ -20,7 +20,7 @@ I wanted to brew a simple German Hefeweizen with lots of banana and clove flavor
 
 ### Results
 
-**Although easy to make, this brew is very disappointing.** It doesn&#8217;t have much banana or clove flavor and still tastes overly yeasty. It&#8217;s just not at all what I was trying for.<section class="brewtable"> 
+**Although easy to make, this brew is very disappointing.** It doesn&#8217;t have much banana or clove flavor and still tastes overly yeasty. It&#8217;s just not at all what I was trying for.
 
 ##### Overview
 
@@ -31,7 +31,7 @@ I wanted to brew a simple German Hefeweizen with lots of banana and clove flavor
   * Final gravity (second attempt): 
       * 1.014
   * ABV 
-      * ~4.7%</section> 
+      * ~4.7% 
 
 I had some concern over the final gravity reading. It was _extremely_ high on the first reading. Then I removed and replaced the hydrometer and the gravity dropped, but was still pretty high.
 
@@ -39,7 +39,7 @@ Maybe it wasn&#8217;t quite done fermenting yet? It had been 12 days. Or maybe t
 
 <img src="http://seattlehomebrew.com/wp-content/uploads/2016/06/IMG_4892_4893-800x500.jpg" class="aligncenter" /> 
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -51,10 +51,10 @@ Maybe it wasn&#8217;t quite done fermenting yet? It had been 12 days. Or maybe t
       * 50 minutes</ul> 
     ##### Yeast
     
-      * 1 package Wyeast 3068 Weihenstephan Weizen</section> 
+      * 1 package Wyeast 3068 Weihenstephan Weizen 
     Super simple recipe. Based on an [Extract Hefeweizen recipe from The Mad Fermentationist](http://www.themadfermentationist.com/2009/09/extract-hefeweizen-recipe.html).
     
-    ### Brewing Notes<section class="brewtable"> 
+    ### Brewing Notes
     
     ##### Timeline
     
@@ -63,7 +63,7 @@ Maybe it wasn&#8217;t quite done fermenting yet? It had been 12 days. Or maybe t
       * Kegged 
           * July 1, 2016
       * Tasted 
-          * July 5, 2016 (?)</section> 
+          * July 5, 2016 (?) 
     <!--table>
 
 

@@ -21,7 +21,7 @@ Sorry, no picture!
 
 ### Results
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual) 
       * 1.092
@@ -32,13 +32,13 @@ Sorry, no picture!
   * Final gravity (expected) 
       * 1.018-19
   * ABV< 
-      * ~9%</section> 
+      * ~9% 
 
 I tasted this after a couple of weeks and it’s not great and pretty flat.
 
 **Update:** After several weeks the carbonation improved and the flavor was much better!
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -69,11 +69,11 @@ I tasted this after a couple of weeks and it’s not great and pretty flat.
 
 ##### Yeast
 
-  * Wyeast 1084 Irish Ale</section> 
+  * Wyeast 1084 Irish Ale 
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * December 15, 2012
@@ -82,7 +82,7 @@ I tasted this after a couple of weeks and it’s not great and pretty flat.
   * Bottled 
       * January 5, 2013
   * Tasted (flat) 
-      * January 18, 2013</section> 
+      * January 18, 2013 
 
   * We skipped the dry hopping that the recipe called for. The recipe called for 0.5 oz Fuggles, which I can’t imagine would make a huge difference.
   * My notes say that we skipped the addition of 0.25 oz steamed/toasted oak chips, but I don&#8217;t actually see that in the recipe.  Although I&#8217;m looking at the old (original) version of the CloneBrews book so maybe it was added to the 2nd Edition.  Jer has a copy of the 2nd Edition so that&#8217;s probably where the note comes from.

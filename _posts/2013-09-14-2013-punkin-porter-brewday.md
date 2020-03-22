@@ -30,7 +30,7 @@ Previous batches:
 
 ### Results
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual) 
       * oops!
@@ -41,7 +41,7 @@ Previous batches:
   * Final gravity (expected) 
       * 1.014
   * ABV 
-      * 8%</section> 
+      * 8% 
 
 <img class="alignright" style="width: 360px;" src="/wp-content/uploads/2013/11/IMG_0943-500x500.jpg" /> 
 
@@ -49,7 +49,7 @@ The photo makes it look as though there is more carbonation than there really is
 
 Tastes good and roasty with a nice amount of spice. If anything I think it&#8217;s a little heavy on the pumpkin; it has a real thick mouthfeel.
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -82,20 +82,20 @@ Tastes good and roasty with a nice amount of spice. If anything I think it&#8217
   * 1 tsp cinnamon (dried/ground) 
       * 5 minutes
   * 1 tsp nutmeg (dried/ground) 
-      * 5 minutes</section> 
+      * 5 minutes 
 
 <img class="aligncenter" src="/wp-content/uploads/2013/09/DSC05720-752x500.jpg" /> 
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * September 14, 2013
   * Bottled 
       * October 15, 2013
   * Tasted 
-      * October 17, 2013</section> 
+      * October 17, 2013 
 
 We followed the [_Extreme Brewing_](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934) recipe but only used canned pumpkin this year.
 

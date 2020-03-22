@@ -26,20 +26,20 @@ The label in the picture above doesn&#8217;t show clearly, but it&#8217;s actual
 
 ### Results
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity 
       * 1.062 (actual)
   * Final gravity 
       * 1.014 (actual)
   * ABV 
-      * ~6%</section> 
+      * ~6% 
 
 **It&#8217;s actually quite good! Very easy to drink.**
 
 ### Recipe
 
-The recipe was very simple:<section class="brewtable"> 
+The recipe was very simple:
 
 ##### Malt
 
@@ -60,11 +60,11 @@ The recipe was very simple:<section class="brewtable">
 ##### Yeast
 
   * 1 package Wyeast  
-    (Whoops! I didn&#8217;t note which kind)</section> 
+    (Whoops! I didn&#8217;t note which kind) 
 
 <img class="aligncenter" src="/wp-content/uploads/2013/07/img_02681-667x500.jpg" alt="Gravity: 1.062" /> 
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * February 13, 2012
@@ -75,4 +75,4 @@ The recipe was very simple:<section class="brewtable">
       * 
   * Tasted 
       * March 16, 2012
-      * </section>
+      * 

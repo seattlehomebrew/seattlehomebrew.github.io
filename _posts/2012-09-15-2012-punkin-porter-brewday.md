@@ -29,7 +29,7 @@ Previous batches:
 
 ### Results
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual) 
       * 1.082
@@ -38,7 +38,7 @@ Previous batches:
   * Final gravity (atual) 
       * 1.024
   * Final gravity (expected) 
-      * 1.014</section> 
+      * 1.014 
 
 The initial tasting was thick and chunky, but very nice on the pumpkin flavor. Spices seemed to be well-balanced.
 
@@ -46,7 +46,7 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
 
 <img src="/wp-content/uploads/2013/07/dsc020511-752x500.jpg" alt="" class="aligncenter" /> 
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -79,13 +79,13 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
   * 1 tsp cinnamon (dried/ground) 
       * 5 minutes
   * 1 tsp nutmeg (dried/ground) 
-      * 5 minutes</section> 
+      * 5 minutes 
 
 <img src="/wp-content/uploads/2013/07/dsc020541-752x500.jpg" alt="" class="aligncenter" /> 
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * September 14, 2012
@@ -94,7 +94,7 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
   * Bottled 
       * October 6, 2012
   * Tasted 
-      * October ??, 2012</section> 
+      * October ??, 2012 
 
   * **We tried roasting a real pumpkin**  
     We cut a small (3.25 pound) pumpkin into small slices and baked it for an hour at 350 degrees. We also baked the seeds at 350 degrees for about 10-12 minutes for extra roastiness. </p> 

@@ -91,7 +91,7 @@ I think my favorite year so far has been the [2013 batch](http://seattlehomebrew
 
 <img src="/wp-content/uploads/2016/08/IMG_5319-001-700x500.jpg" class="aligncenter" /> 
 
-We started with the clone recipe for the Double Enghien Blonde Ale in the [CloneBrews](http://www.amazon.com/gp/product/160342539X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160342539X&linkCode=as2&tag=seatthomeb-20&linkId=QJWZLEAN33BGBN5G) book. We made a few substitutions based on what was available, but nothing that should be a problem.<section class="brewtable"> 
+We started with the clone recipe for the Double Enghien Blonde Ale in the [CloneBrews](http://www.amazon.com/gp/product/160342539X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160342539X&linkCode=as2&tag=seatthomeb-20&linkId=QJWZLEAN33BGBN5G) book. We made a few substitutions based on what was available, but nothing that should be a problem.
 
 #### Malts and Sugars
 
@@ -212,11 +212,11 @@ We started with the clone recipe for the Double Enghien Blonde Ale in the [Clone
         2 packs Wyeast 1762 Belgian Abbey Ale II
       </td>
     </tr>
-  </table></section> 
+  </table> 
   
   <h2>
     Brewing Notes
-  </h2><section class="brewtable"> 
+  </h2>
   
   <h4>
     Timeline
@@ -252,7 +252,7 @@ We started with the clone recipe for the Double Enghien Blonde Ale in the [Clone
         October 24, 2016
       </td>
     </tr>
-  </table></section> 
+  </table> 
   
   <p>
     <img src="http://seattlehomebrew.com/wp-content/uploads/2016/08/IMG_5332-001-517x500.jpg" alt="" width="517" height="500" class="aligncenter" />

@@ -25,7 +25,7 @@ This is our first test beer as a candidate for [barrel aging](/category/the-stor
 
 <img class="alignright" src="/wp-content/uploads/2013/07/tumblr_mo5t3pKcSW1studqio2_12801-375x500.jpg" /> 
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual) 
       * **1.104!**
@@ -36,7 +36,7 @@ This is our first test beer as a candidate for [barrel aging](/category/the-stor
   * Final gravity (expected) 
       * N/A
   * ABV 
-      * ~9.7%</section> 
+      * ~9.7% 
 
 It tastes real good and real boozy! 
 
@@ -49,7 +49,7 @@ It tastes real good and real boozy!
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * November 3, 2012
@@ -59,7 +59,7 @@ It tastes real good and real boozy!
       * November 23, 2012
   * Tasted 
       * December 2, 2012 (bottle)
-      * February, 2012 (mini-barrel)</section> 
+      * February, 2012 (mini-barrel) 
 
 <img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mnmmmnV7LM1studqio3_12801-667x500.jpg" alt="tumblr_mnmmmnV7LM1studqio3_12801" /> 
 

@@ -22,7 +22,7 @@ This is our second test beer as a candidate for [barrel aging](/category/the-sto
 
 <img class="alignright" src="/wp-content/uploads/2013/07/tumblr_mo5tgwcKyW1studqio1_12801-375x500.jpg" alt="Tipsy Trappist" /> 
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual) 
       * 1.066
@@ -31,7 +31,7 @@ This is our second test beer as a candidate for [barrel aging](/category/the-sto
   * Final gravity (actual) 
       * 1.020
   * Final gravity (expected) 
-      * 1.013-1.018</section> 
+      * 1.013-1.018 
 
 The first tasting of the Tipsy Trappist was disappointing and flat.
 
@@ -41,7 +41,7 @@ Merry Christmas
 
 **Update:** Still bad after a few months. For what I think is the first time ever with a homebrew, I even poured out a few of the remaining bottles.
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -66,11 +66,11 @@ Merry Christmas
 ##### Other
 
   * 1 lb dark candi sugar**  
-    (used 16oz premium extra dark belgian candy _syrup_)**</section> 
+    (used 16oz premium extra dark belgian candy _syrup_)** 
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed 
       * November 23, 2012
@@ -79,7 +79,7 @@ Merry Christmas
   * Bottled 
       * December 15, 2012
   * Tasted 
-      * December 24, 2012</section> 
+      * December 24, 2012 
 
 This recipe is a partial mash, which we’ve never done before but doesn’t seem too complicated: [Partial Mashing (BeerSmith)](http://beersmith.com/blog/2009/05/14/partial-mashing/). Maybe that was our downfall or we weren&#8217;t careful enough with keeping it clean.
 

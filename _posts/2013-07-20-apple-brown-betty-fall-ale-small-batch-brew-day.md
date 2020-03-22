@@ -24,7 +24,7 @@ A 2.5 gallon batch seemed like an easy task for the kitchen stove. Unfortunately
 
 <!--more-->
 
-### Results<section class="brewtable"> 
+### Results
 
 ##### Overview
 
@@ -37,7 +37,7 @@ A 2.5 gallon batch seemed like an easy task for the kitchen stove. Unfortunately
   * Final gravity (expected): 
       * N/A
   * ABV 
-      * ~6%</section> 
+      * ~6% 
 
 **Underwhelming.**
 
@@ -47,7 +47,7 @@ Initially I think it tastes a bit watery and I did not notice much apple or brow
 
 ### Recipe
 
-This recipe is from [_The Homebrewer&#8217;s Recipe Guide_](http://www.amazon.com/gp/product/0684829215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684829215&linkCode=as2&tag=seatthomeb-20&linkId=LYRBZP5QN7XKUUPI). The main recipe (not including the puree) is pretty simple:<section class="brewtable"> 
+This recipe is from [_The Homebrewer&#8217;s Recipe Guide_](http://www.amazon.com/gp/product/0684829215/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684829215&linkCode=as2&tag=seatthomeb-20&linkId=LYRBZP5QN7XKUUPI). The main recipe (not including the puree) is pretty simple:
 
 ##### Malt
 
@@ -73,9 +73,9 @@ This recipe is from [_The Homebrewer&#8217;s Recipe Guide_](http://www.amazon.co
   * 2 lbs of apples, diced  
     (half Red Delicious, half Granny Smith)
   * 2 lbs of apples, puréed  
-    (half Red Delicious, half Granny Smith)</section> 
+    (half Red Delicious, half Granny Smith) 
 
-### Brewing Notes<section class="brewtable"> 
+### Brewing Notes
 
 ##### Timeline
 
@@ -86,7 +86,7 @@ This recipe is from [_The Homebrewer&#8217;s Recipe Guide_](http://www.amazon.co
   * Bottled 
       * August 5, 2013
   * Tasted 
-      * August 19, 2013</section> 
+      * August 19, 2013 
 
 <img class="alignright" src="/wp-content/uploads/2013/07/20130725-230948-375x500.jpg" /> 
 

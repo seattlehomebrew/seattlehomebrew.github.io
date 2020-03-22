@@ -25,7 +25,7 @@ For our barrel project we decided on the recipe from [_The Homebrewer’s Recipe
 
 ### Results
 
-##### Overview<section class="brewtable"> 
+##### Overview
 
   * Starting gravity (actual) 
       * oops! [1.104?](/2012/11/canadian-imperial-stout-brewday/)
@@ -36,13 +36,13 @@ For our barrel project we decided on the recipe from [_The Homebrewer’s Recipe
   * Final gravity (expected) 
       * N/A
   * ABV 
-      * ~9.5-10% ?</section> 
+      * ~9.5-10% ? 
 
 ### Recipe
 
 <img class="alignnone" src="/wp-content/uploads/2013/07/923099_10101980607363868_653660096_n1-e1467437769716-454x500.jpg" /> 
 
-The recipe for a single batch, with substitutions noted:<section class="brewtable"> 
+The recipe for a single batch, with substitutions noted:
 
 ##### Malt and Sugars
 
@@ -69,11 +69,11 @@ The recipe for a single batch, with substitutions noted:<section class="brewtabl
 ##### Yeast
 
   * 1 package Irish Ale yeast  
-    **(we split 6 packages across 4 batches)**</section> 
+    **(we split 6 packages across 4 batches)** 
 
 ### Brewing Notes
 
-##### Timeline<section class="brewtable"> 
+##### Timeline
 
   * Brewed on 
       * April 20, 2013
@@ -88,7 +88,7 @@ The recipe for a single batch, with substitutions noted:<section class="brewtabl
       * August 12, 2013
       * August 19, 2013 (vanilla bean)
   * Tasted from bottle (flat) 
-      * August 14, 2014</section> 
+      * August 14, 2014 
 
 <img class="alignnone" src="/wp-content/uploads/2013/07/69030_10201009389145621_1018828359_n1-500x500.jpg" /> 
 

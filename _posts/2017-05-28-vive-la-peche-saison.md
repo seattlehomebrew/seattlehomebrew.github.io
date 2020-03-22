@@ -86,7 +86,7 @@ To make things interesting, I want to add peaches during fermentation, so this i
 
 <img src="/wp-content/uploads/2017/07/PeachSaison-2b-667x500.jpg" class="aligncenter" /> 
 
-I used up a bunch of old hops for this, so they weren&#8217;t as fresh as you&#8217;d hope. But the homebrew shop was out of the Styrian Golding hops that I had hoped to use.<section class="brewtable"> 
+I used up a bunch of old hops for this, so they weren&#8217;t as fresh as you&#8217;d hope. But the homebrew shop was out of the Styrian Golding hops that I had hoped to use.
 
 #### Malts and Sugars
 
@@ -192,13 +192,13 @@ I used up a bunch of old hops for this, so they weren&#8217;t as fresh as you&#8
       1 pack Wyeast 3711 French Saison
     </td>
   </tr>
-</table></section> 
+</table> 
 
 ## Brewing Notes
 
   * Added 6 lbs of pureed peach (weighed after puree) to about half (2.5 gallons) of the saison. Aged for 9 days.
   * Blended 2 gallons of the peach saison (losing some to the puree) with 1 gallon of the un-peached saison. Bottled this 3 gallons, and then bottled another ~1 gallon of the remaining un-peached saison.
-  * Overall, lost about a gallon to the puree (which was too small) and general yeastiness at the bottom of the carboys.<section class="brewtable"> 
+  * Overall, lost about a gallon to the puree (which was too small) and general yeastiness at the bottom of the carboys.
 
 #### Timeline
 
@@ -232,6 +232,6 @@ I used up a bunch of old hops for this, so they weren&#8217;t as fresh as you&#8
       June 27, 2017
     </td>
   </tr>
-</table></section> 
+</table> 
 
 _**Note:** Unfortunately, I lost the original version of this post so I don&#8217;t have any tasting notes. I think it turned out fine, but could use improvement._

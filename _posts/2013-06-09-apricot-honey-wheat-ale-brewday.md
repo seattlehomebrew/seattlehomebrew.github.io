@@ -19,7 +19,7 @@ This is a hodgepodge of a few recipes. I made my own apricot purée from fresh f
 
 <!--more-->
 
-### Results<section class="brewtable"> 
+### Results
 
 ##### Overview
 
@@ -28,7 +28,7 @@ This is a hodgepodge of a few recipes. I made my own apricot purée from fresh f
   * Final gravity 
       * 1.015
   * ABV 
-      * ~5.8%</section> 
+      * ~5.8% 
 
 The first bottle that I tasted was the last bottle that I filled and had nearly an inch of sediment settled in the bottom of the bottle.
 
@@ -43,7 +43,7 @@ The first bottle that I tasted was the last bottle that I filled and had nearly 
 
 <img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mo5rpj1K2E1studqio1_12801-667x500.jpg" /> 
 
-### Recipe<section class="brewtable"> 
+### Recipe
 
 ##### Malt
 
@@ -74,13 +74,13 @@ The first bottle that I tasted was the last bottle that I filled and had nearly 
 ##### Other
 
   * ~3 lbs fresh apricot
-  * 4 oz apricot extract</section> 
+  * 4 oz apricot extract 
 
 I wish I had used less of the CaraVienna malt (maybe only 0.25-0.5 lbs). It would have kept the color lighter and I’m worried that the Honey malt will make it too sweet/caramelly. (**Update:** This wasn&#8217;t a problem after all. Too _bitter_ if anything)
 
 For the yeast I also considered 2565 Kolsch (for fruitiness) and 1010 American Wheat (but didn’t want any banana/clove).
 
-### Brewing Notes<section class="brewtable"> 
+### Brewing Notes
 
 ##### Timeline
 
@@ -91,7 +91,7 @@ For the yeast I also considered 2565 Kolsch (for fruitiness) and 1010 American W
   * Bottled 
       * June 26, 2013
   * Tasted 
-      * July 9, 2013</section> 
+      * July 9, 2013 
 
 <img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mo5rpj1K2E1studqio3_12801-667x500.jpg" alt="Gravity: 1.059" /> 
 
