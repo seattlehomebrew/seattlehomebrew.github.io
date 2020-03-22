@@ -15,7 +15,7 @@ tags:
   - Brew Day
   - Saison
 ---
-<img src="/wp-content/uploads/2013/07/img_03551-667x500.jpg" alt="2012 Saison" class="aligncenter" />
+![2012 Saison]({{ site.baseurl }}/images/posts/ginger-saison-no-ginger-2012-667x500.jpg)
 
 This is the 2012 version of the [(Exploding) Ginger Saison without Ginger](/2011/06/10/ginger-saison-without-ginger-brewday) based on the recipe from [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB)
 
