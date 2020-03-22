@@ -32,7 +32,7 @@ The main questions for making semi-sweet cider are:
 
 This isn't specific to semi-sweet cider, but since yeast is the only thing added to your cider it will have the most impact on how your cider tastes (aside from the apples, obviously).
 
-I searched a bunch of online forums and dug up some notes on different yeasts. CvilleKevin over in the HomeBrewTalk forums has some crazy in-depth notes about cider and yeasts. He tried and wrote [notes for 80 different combinations here](https://www.homebrewtalk.com/forum/threads/results-from-juice-yeast-and-sugar-experiments.83060/) and wrote up <a notes here</a> and [updated notes here](https://www.homebrewtalk.com/forum/threads/results-from-juice-yeast-and-sugar-experiments.83060/page-21#post-5710045). He posts a ton of extra information in that thread if you're willing to dig around.
+I searched a bunch of online forums and dug up some notes on different yeasts. CvilleKevin over in the HomeBrewTalk forums has some crazy in-depth notes about cider and yeasts. He tried and wrote [notes for 80 different combinations here](https://www.homebrewtalk.com/forum/threads/results-from-juice-yeast-and-sugar-experiments.83060/) and [updated notes here](https://www.homebrewtalk.com/forum/threads/results-from-juice-yeast-and-sugar-experiments.83060/page-21#post-5710045). He posts a ton of extra information in that thread if you're willing to dig around.
 
 My own short list of yeasts to try was:
 
