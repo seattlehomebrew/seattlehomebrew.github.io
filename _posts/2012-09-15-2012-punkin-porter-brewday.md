@@ -18,7 +18,7 @@ tags:
 ---
 ![Punkin' Porter]({{ site.baseurl }}/images/posts/punkin-porter-2012-1-752x500.jpg)
 
-As usual, for 2012 we once again followed the <a href="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934" target="_blank"><em>Extreme Brewing</em></a> recipe and made modifications to the pumpkin process.
+As usual, for 2012 we once again followed the [_Extreme Brewing_](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934) recipe and made modifications to the pumpkin process.
 
 Previous batches:
 
