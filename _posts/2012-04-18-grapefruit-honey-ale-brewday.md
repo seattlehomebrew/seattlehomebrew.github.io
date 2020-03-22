@@ -16,7 +16,7 @@ tags:
   - Grapefruit
   - Honey
 ---
-<img class="alignleft" src="/wp-content/uploads/2013/07/img_04041-375x500.jpg" alt="Grapefruit Honey Ale" />
+![Grapefruit Honey Ale]({{ site.baseurl }}/images/posts/grapefruit-honey-2012-375x500.jpg)
 
 This is our first brew from [_Brooklyn Brew Shop's Beer Making Book_](http://amzn.to/1Tb4oFl). The book contains recipes for small 1&#8209;gallon batches, but does include changes for making a normal 5&#8209;gallon batch. 
 
