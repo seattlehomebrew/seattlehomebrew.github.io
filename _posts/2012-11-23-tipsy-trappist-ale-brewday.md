@@ -20,7 +20,7 @@ This is our second test beer as a candidate for [barrel aging](/category/the-sto
 
 ### Results
 
-<img class="alignright" src="/wp-content/uploads/2013/07/tumblr_mo5tgwcKyW1studqio1_12801-375x500.jpg" alt="Tipsy Trappist" /> 
+![Tipsy Trappist]({{ site.baseurl }}/images/posts/tipsy-trappist-2012-1-375x500.jpg)
 
 ##### Overview
 
@@ -85,10 +85,8 @@ This recipe is a partial mash, which we’ve never done before but doesn’t se
 
 We sparged for 90 minutes in 2 gallons of water at 155 degrees in a blue picnic cooler. Then added up to a total of 6 gallons to start the wort.
 
-<img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mnxn91ewX71studqio2_128011.jpg" alt="Sparging!" /> 
+![Sparging!]({{ site.baseurl }}/images/posts/tipsy-trappist-2012-2.jpg)
 
 Oh, and it rained so we improvised some shelter.
 
-<img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mnxn91ewX71studqio1_12801-667x500.jpg" alt="Makeshift rain cover" /> 
-
-<!--img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mnxn91ewX71studqio3_12801-667x500.jpg" alt="Makeshift rain cover" /-->
+![Makeshift rain cover]({{ site.baseurl }}/images/posts/tipsy-trappist-2012-3-667x500.jpg)
