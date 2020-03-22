@@ -44,7 +44,7 @@ I didn't want an overly sweet cider, so I ruled out Wyeast 3068 (too high of a f
 
 #### Keeping it Sweet
 
-If you let cider ferment until the yeast stops, you will end up with a dry cider. One way to get a sweeter cider is to add more sugar after fermentation is complete (sometimes called &#8220;backsweetening&#8221;). However, you might lose some of the apple flavor by letting the yeast work until it's all done. An alternative is to stop the fermentation early to prevent the yeast from eating up all of that good natural sugar in the cider. You can do this by &#8220;cold crashing&#8221; the cider to stop the yeast. 
+If you let cider ferment until the yeast stops, you will end up with a dry cider. One way to get a sweeter cider is to add more sugar after fermentation is complete (sometimes called "backsweetening"). However, you might lose some of the apple flavor by letting the yeast work until it's all done. An alternative is to stop the fermentation early to prevent the yeast from eating up all of that good natural sugar in the cider. You can do this by "cold crashing" the cider to stop the yeast. 
 
 I do this by transferring the cider to a keg when the gravity gets to around 1.010-1.015 and then sticking the keg in the fridge to drop the temperature. Previously, I would monitor the gravity by pulling a sample every couple of days after the first week of fermentation. This time I used a new [Tilt Hydrometer](https://tilthydrometer.com) to watch the gravity in real time in a Google Sheets chart. You can see the chart (which gave live updates every fifteen minutes) below.
 
@@ -175,7 +175,7 @@ This sugar addition had nothing to do with wanting sweeter cider, and was done s
 <table class="brewtable">
   <tr>
     <td>
-      &#8220;Brewed&#8221;
+      "Brewed"
     </td>
     
     <td>

@@ -88,7 +88,7 @@ Here is the recipe that I used, which differs slightly from both of those links.
 
   * 2 packs Wyeast 1056 American Ale 
 
-  * For the recipe's &#8220;Light Dextrin Malt (Carahell)&#8221; I used what was marked as Dextrin Malt and was [actually Carapils 1.5L](http://www.cellar-homebrew.com/shop/Dextrin-Carapils-Malt.html). Carapils is apparently not the same, since [Carahell is just a trade name for Weyermann's Caramel 10L](http://www.weyermann.de/eng/produkte.asp?idkat=18&umenue=yes&idmenue=&sprache=2). Confusing and lame, but it's not going to make a big difference at such small amounts.
+  * For the recipe's "Light Dextrin Malt (Carahell)" I used what was marked as Dextrin Malt and was [actually Carapils 1.5L](http://www.cellar-homebrew.com/shop/Dextrin-Carapils-Malt.html). Carapils is apparently not the same, since [Carahell is just a trade name for Weyermann's Caramel 10L](http://www.weyermann.de/eng/produkte.asp?idkat=18&umenue=yes&idmenue=&sprache=2). Confusing and lame, but it's not going to make a big difference at such small amounts.
   * I'm using 40L Crystal Malt instead of 45L Crystal Malt. Again, it's not going to make a difference at these small amounts.
   * As mentioned above, I went with 2 oz of Chinook buttering hops based on the Naked City thread, but that was probably way higher than it should have been.
   * There weren't any Glacier hops available so I went with Willamette, which I'm pretty happy with and think will turn out well.

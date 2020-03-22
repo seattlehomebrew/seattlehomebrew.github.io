@@ -56,4 +56,4 @@ When tasting the wort there was a noticable bitter grapefruit aftertaste (in a g
 
   * This was a confusing book because the recipes are for 1-gallon batches with only a small sidebar for a normal 5-gallon batch.
   * We had to make many substitutions for available malts and to use up some hops that we already had on hand.
-  * We used 5 &#8220;small&#8221; grapefruits (instead of the ridiculously large grapefruits). The recipe only calls for roasting their peels.
+  * We used 5 "small" grapefruits (instead of the ridiculously large grapefruits). The recipe only calls for roasting their peels.
