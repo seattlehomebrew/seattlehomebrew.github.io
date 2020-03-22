@@ -14,7 +14,7 @@ tags:
   - Backyard Hops
   - Pale Ale
 ---
-<img class="aligncenter" src="/wp-content/uploads/2013/07/20130711-2008581-667x500.jpg" alt="Backyard Pale - 2011 Harvest" />
+![Backyard Pale - 2011 Harvest]({{ site.baseurl }}/images/posts/backyard-pale-2012-1-667x500.jpg)
 
 A simple Pale Ale brewed using only the homegrown Centennial and Cascade hops from my first year backyard hop harvest.
 
@@ -22,7 +22,7 @@ The label in the picture above doesn't show clearly, but it's actually this pict
 
 <!--more-->
 
-<img src="/wp-content/uploads/2013/07/backyard-bw1-733x500.jpg" class="aligncenter" /> 
+![]({{ site.baseurl }}/images/posts/backyard-pale-2012-label-733x500.jpg)
 
 ### Results
 
@@ -62,7 +62,7 @@ The recipe was very simple:
   * 1 package Wyeast  
     (Whoops! I didn't note which kind) 
 
-<img class="aligncenter" src="/wp-content/uploads/2013/07/img_02681-667x500.jpg" alt="Gravity: 1.062" /> 
+![Gravity: 1.062]({{ site.baseurl }}/images/posts/backyard-pale-2012-2-667x500.jpg)
 
 ##### Timeline
 
