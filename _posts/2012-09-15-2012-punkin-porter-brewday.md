@@ -16,7 +16,7 @@ tags:
   - Porter
   - Pumpkin
 ---
-<img src="/wp-content/uploads/2013/07/dsc020491-752x500.jpg" alt="" class="aligncenter" />
+![Punkin' Porter]({{ site.baseurl }}/images/posts/punkin-porter-2012-1-752x500.jpg)
 
 As usual, for 2012 we once again followed the <a href="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934" target="_blank"><em>Extreme Brewing</em></a> recipe and made modifications to the pumpkin process.
 
@@ -44,7 +44,7 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
 
 **_Update:_** After a little time in the bottle, this batch got a real earthy flavor that was unpleasant. I'm guessing this was the pumpkin seeds but could have been any part of the fully roasted pumpkin. Maybe stick to the pumpkin flesh in the future.
 
-<img src="/wp-content/uploads/2013/07/dsc020511-752x500.jpg" alt="" class="aligncenter" /> 
+![]({{ site.baseurl }}/images/posts/punkin-porter-2012-2-752x500.jpg)
 
 ### Recipe
 
@@ -81,7 +81,7 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
   * 1 tsp nutmeg (dried/ground) 
       * 5 minutes 
 
-<img src="/wp-content/uploads/2013/07/dsc020541-752x500.jpg" alt="" class="aligncenter" /> 
+![]({{ site.baseurl }}/images/posts/punkin-porter-2012-3-752x500.jpg)
 
 ### Brewing Notes
 
