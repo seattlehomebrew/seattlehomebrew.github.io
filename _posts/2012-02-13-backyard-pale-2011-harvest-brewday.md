@@ -1,6 +1,6 @@
 ---
 id: 656
-title: 'Backyard Pale &#8211; 2011 Harvest'
+title: 'Backyard Pale — 2011 Harvest'
 date: 2012-02-13T20:00:28+00:00
 author: Dave
 layout: post

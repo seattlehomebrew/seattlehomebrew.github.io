@@ -101,7 +101,7 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
     Both the pumpkin and seeds went into the pre-boil tea with the grains for about 45 minutes.</li> 
     
       * **We also used Libby's canned pumpkin**  
-        We used _59 ounces_&#8211;even more than last year&#8211;and put into a muslin bag and added to the standard wort boil at the 60 minute mark.
+        We used _59 ounces_—even more than last year—and put into a muslin bag and added to the standard wort boil at the 60 minute mark.
       * **We used less allspice again**  
         We used 1 tsp of cinnamon, 1 tsp of nutmeg and 0.5 tsp of allspice. The 0.5 tsp of allspice is half of the 1 tsp in the directions. We liked how [last year's batch](/2011/09/punkin-porter-brewday-2011/) tasted with a little less allspice and mainly wanted to increase the pumpkin flavor. We again used pre-ground/dried spices this time.
       * The starting volume was roughly 20 quarts (5 gallons) prior to adding any malt.

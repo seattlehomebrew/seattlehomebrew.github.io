@@ -18,7 +18,7 @@ tags:
 
 This is the fourth year of brewing the Punkin' Porter, which is the only one of our brews that has made so many repeat appearances.
 
-Before kicking off our brew day we did a side-by-side tasting of the 2012 and 2011 batches. Unfortunately, the 2012 had a slight sour note to it. I assume this comes from experimenting with roasted pumpkin seeds, but really could stem from any part of the process of using real pumpkin. The 2011 batch was&#8211;even after two years&#8211;pretty amazing!
+Before kicking off our brew day we did a side-by-side tasting of the 2012 and 2011 batches. Unfortunately, the 2012 had a slight sour note to it. I assume this comes from experimenting with roasted pumpkin seeds, but really could stem from any part of the process of using real pumpkin. The 2011 batch was—even after two years—pretty amazing!
 
 <!--more-->
 

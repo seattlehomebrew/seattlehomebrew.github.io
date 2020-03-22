@@ -36,9 +36,9 @@ I searched a bunch of online forums and dug up some notes on different yeasts. C
 
 My own short list of yeasts to try was:
 
-  * **Wyeast 3056 (Bavarian Wheat Blend)** &#8211; Can go up to 1.020 FG without being sticky sweet, and down to 1.002&#8209;1.004 for a dry cider. Needs a blowoff tube for a full carboy.
-  * **Safale S-04** &#8211; Target FG around 1.002-1.012. Has the finish/mouthfeel of a dry cider, but with more apple flavor. No blowoff tube needed.
-  * **Wyeast 3068 (Weihenstephan Wheat Yeast)** &#8211; Crowd-pleaser. Good for a sweet cider with an FG in the 1.020&#8209;1.025 range. Not good below 1.012. Needs a blowoff tube for a full carboy.
+  * **Wyeast 3056 (Bavarian Wheat Blend)** — Can go up to 1.020 FG without being sticky sweet, and down to 1.002&#8209;1.004 for a dry cider. Needs a blowoff tube for a full carboy.
+  * **Safale S-04** — Target FG around 1.002-1.012. Has the finish/mouthfeel of a dry cider, but with more apple flavor. No blowoff tube needed.
+  * **Wyeast 3068 (Weihenstephan Wheat Yeast)** — Crowd-pleaser. Good for a sweet cider with an FG in the 1.020&#8209;1.025 range. Not good below 1.012. Needs a blowoff tube for a full carboy.
 
 I didn't want an overly sweet cider, so I ruled out Wyeast 3068 (too high of a final gravity). I ended up deciding on Wyeast 3056 (which CvilleKevin listed as his favorite our of these three), but would have grabbed Safale S-04 if the homebrew store was out of the Wyeast packs.
 

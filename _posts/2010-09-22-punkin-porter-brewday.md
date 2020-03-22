@@ -94,7 +94,7 @@ In bullet hole form:
   * 2 boil overs 🙁
   * Added more water twice towards the end of the hop boil to get back up to ~5 gallons again, rather than adding water to carboy. Gravity too low afterwards.
   * Forgot to sterilize the yeast package.
-  * Sad&#8211;the primary carboy is still under 5 gal
+  * Sad—the primary carboy is still under 5 gal
   * Siphon to secondary fermentation sucked: 
       * Lots of air bubbles in siphon
       * Only 4 gallons transferred including what looks like ~0.5 gallons of sediment

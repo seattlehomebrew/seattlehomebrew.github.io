@@ -39,7 +39,7 @@ The first bottle that I tasted was the last bottle that I filled and had nearly 
 
 **Update July 10, 2013:** The second bottle for opened is from the middle of the bottling process and has much less sediment. It is less tart and tastes much better overall! Good apricot aroma and not overpowering with the apricot. Much better
 
-**Update August 17, 2013:** Different bottles have been pretty hit-or-miss. I think that we didn't let it settle enough after transferring to the bottling bucket&#8211;especially because we kept disturbing it by adding more apricot extract and re-stirring after each addition. We were probably too impatient.
+**Update August 17, 2013:** Different bottles have been pretty hit-or-miss. I think that we didn't let it settle enough after transferring to the bottling bucket—especially because we kept disturbing it by adding more apricot extract and re-stirring after each addition. We were probably too impatient.
 
 <img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mo5rpj1K2E1studqio1_12801-667x500.jpg" /> 
 

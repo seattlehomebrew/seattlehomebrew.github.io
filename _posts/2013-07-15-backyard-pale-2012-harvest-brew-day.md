@@ -1,6 +1,6 @@
 ---
 id: 1111
-title: 'Backyard <s>Pale</s> Belgian &#8211; 2012 Harvest'
+title: 'Backyard <s>Pale</s> Belgian — 2012 Harvest'
 date: 2013-07-15T18:30:06+00:00
 author: Dave
 layout: post

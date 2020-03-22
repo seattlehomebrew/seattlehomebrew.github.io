@@ -103,7 +103,7 @@ This recipe is from [_The Homebrewer's Recipe Guide_](http://www.amazon.com/gp/p
 <img class="alignright" src="/wp-content/uploads/2013/07/20130725-222908-375x500.jpg" /> 
 
   * **Make apple purée**  
-    After five days I added another 2 lbs of apple to the fermenter&#8211;this time puréed.</p> 
+    After five days I added another 2 lbs of apple to the fermenter—this time puréed.</p> 
     I cut the apples into chunks and discarded the cores before puréeing. Just like the apricot purée for the [Apricot Honey Wheat Ale](http://seattlehomebrew.com/2013/06/09/apricot-honey-wheat-ale-brewday), I heated the apple purée to ~160-170 degrees to get rid of any baddies. After cooling a bit, I put the apple purée in a mesh grain sack (to keep it from turning into a huge mess) added it to the secondary fermentation. I also added a single cinnamon stick.</li> 
     
       * **Transfer and add purée**  

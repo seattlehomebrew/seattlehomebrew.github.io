@@ -36,7 +36,7 @@ I was running out of time to brew a beer this summer that would be ready in time
   * ABV 
       * 7.22% 
 
-It's bitter with a not-too-strong aroma. Very dirty with sediment on the first few pours from the keg, but seems to get better over time. It's actually quite bitter. Unfortunately I don't detect a lot of jasmine&#8211;just a hint. But it's a good IPA. Real clean flavor, which I don't always get for my beers. Despite not picking up a lot of jasmine flavor, I'm pretty happy with this beer. 
+It's bitter with a not-too-strong aroma. Very dirty with sediment on the first few pours from the keg, but seems to get better over time. It's actually quite bitter. Unfortunately I don't detect a lot of jasmine—just a hint. But it's a good IPA. Real clean flavor, which I don't always get for my beers. Despite not picking up a lot of jasmine flavor, I'm pretty happy with this beer. 
 
 Jer claims that it has tons of flowery jasmine flavor. Kolbe says it's good, but also doesn't taste the flowery flavors that Jer noticed. Dean likes it and thinks it smells and tastes like weed (it kind of does) and also noted that it was clear and didn't have the off-flavors that you often get in homebrew.
 
@@ -46,7 +46,7 @@ Jer claims that it has tons of flowery jasmine flavor. Kolbe says it's good, but
 
 This was based on a [clone recipe for Elysian's Avatar Jasmine IPA](http://blog.seattlepi.com/whatsontap/2008/05/22/elysian-homebrew-recipes/) that came straight from Dick Cantwell. The base hops for this recipe are listed as 7.5 AAU of Chinook hops.
 
-I also stumbled across this thread that discusses [Naked City Brewing's version called Femme Fatale Jasmine IPA](http://www.homebrewtalk.com/showthread.php?t=67344), which is based on the same clone recipe but changed the base hops from Chinook to Northern Brewer and dropped to 2 oz because 7.5 AAU calculated out to around 4 oz of hops, which pushes the total IBUs to over 100&#8211;too high for this beer.
+I also stumbled across this thread that discusses [Naked City Brewing's version called Femme Fatale Jasmine IPA](http://www.homebrewtalk.com/showthread.php?t=67344), which is based on the same clone recipe but changed the base hops from Chinook to Northern Brewer and dropped to 2 oz because 7.5 AAU calculated out to around 4 oz of hops, which pushes the total IBUs to over 100—too high for this beer.
 
 I stuck with Chinook hops, but went with the suggested 2 oz. **That was probably wrong.** By my own AAU calculation with 11.8% AA Chinook hops, I should have had less than an ounce of Chinook hops:
 
