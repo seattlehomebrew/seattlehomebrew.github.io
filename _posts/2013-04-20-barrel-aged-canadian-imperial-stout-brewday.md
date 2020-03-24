@@ -15,7 +15,7 @@ tags:
   - Brew Day
   - Stout
 ---
-<img class="aligncenter" src="/wp-content/uploads/2013/07/400606_10101980607318958_309843603_n1-755x500.jpg" />
+![]({{ site.baseurl }}/images/posts/barrel-aged-canadian-imperial-stout-2013-1-755x500.jpg)
 
 We're brewing **four** batches to fill a [13.5 gallon Dry Fly Wheat Whiskey barrel](/category/the-story-of-barry/?order=ASC)! That should give us enough (~16 gallons or so) to fill the barrel and have extra to top off and maybe keep some as a control batch.
 
@@ -40,7 +40,7 @@ For our barrel project we decided on the recipe from [_The Homebrewer’s Recipe
 
 ### Recipe
 
-<img class="alignnone" src="/wp-content/uploads/2013/07/923099_10101980607363868_653660096_n1-e1467437769716-454x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/barrel-aged-canadian-imperial-stout-2013-2-454x500.jpg)
 
 The recipe for a single batch, with substitutions noted:
 
@@ -90,20 +90,21 @@ The recipe for a single batch, with substitutions noted:
   * Tasted from bottle (flat) 
       * August 14, 2014 
 
-<img class="alignnone" src="/wp-content/uploads/2013/07/69030_10201009389145621_1018828359_n1-500x500.jpg" /> 
+
+![]({{ site.baseurl }}/images/posts/barrel-aged-canadian-imperial-stout-2013-3-500x500.jpg)
 
 Four simultaneous brew stations! Offset by ~20 minutes each.
 
-<img class="alignnone" src="/wp-content/uploads/2013/07/IMG_05841-e1467438258675-489x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/barrel-aged-canadian-imperial-stout-2013-4-489x500.jpg)
 
 10 lbs of liquid malt extract for each batch! And of course we had a boil-over (but only one!).
 
-<img class="alignnone" src="/wp-content/uploads/2013/07/21183_10101980606834928_81079713_n1-e1467438451182-473x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/barrel-aged-canadian-imperial-stout-2013-5-473x500.jpg)
 
 We split the four batches across five carboys. Most were 5-gallon carboys, which didn't hold a full batch during primary fermentation of [our earlier test batch](/2012/11/canadian-imperial-stout-brewday/).
 
-<img class="aligncenter" src="/wp-content/uploads/2013/09/IMG_05881-e1380086115403-667x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/barrel-aged-canadian-imperial-stout-2013-6-667x500.jpg)
 
 All tucked in for a good nights sleep? Not exactly. We probably should have known better than to use an airlock on such a big beer! Unfortunately, we were short one blowoff tube and had to get an emergency blowoff tube to avoid an overnight disaster.
 
-<img class="alignnone" src="/wp-content/uploads/2013/07/IMG_05901-375x500.jpg" />
+![]({{ site.baseurl }}/images/posts/barrel-aged-canadian-imperial-stout-2013-7-375x500.jpg)
