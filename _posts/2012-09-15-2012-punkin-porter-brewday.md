@@ -22,8 +22,8 @@ As usual, for 2012 we once again followed the [_Extreme Brewing_](http://rcm.am
 
 Previous batches:
 
-  * [2011 Punkin' Porter](/2011/09/punkin-porter-brewday-2011/)
-  * [2010 Punkin' Porter](/2010/09/punkin-porter-brewday/)
+  * [2011 Punkin' Porter](/2011/09/27/punkin-porter-brewday-2011)
+  * [2010 Punkin' Porter](/2010/09/22/punkin-porter-brewday)
 
 <!--more-->
 
@@ -97,8 +97,8 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
       * October ??, 2012 
 
   * **We tried roasting a real pumpkin**  
-    We cut a small (3.25 pound) pumpkin into small slices and baked it for an hour at 350 degrees. We also baked the seeds at 350 degrees for about 10-12 minutes for extra roastiness. </p> 
-    Both the pumpkin and seeds went into the pre-boil tea with the grains for about 45 minutes.</li> 
+    We cut a small (3.25 pound) pumpkin into small slices and baked it for an hour at 350 degrees. We also baked the seeds at 350 degrees for about 10-12 minutes for extra roastiness.
+    Both the pumpkin and seeds went into the pre-boil tea with the grains for about 45 minutes.
     
       * **We also used Libby's canned pumpkin**  
         We used _59 ounces_—even more than last year—and put into a muslin bag and added to the standard wort boil at the 60 minute mark.
@@ -107,4 +107,4 @@ The initial tasting was thick and chunky, but very nice on the pumpkin flavor. S
       * The starting volume was roughly 20 quarts (5 gallons) prior to adding any malt.
       * We actually followed the directions for the Cascade, the Hallertau, and the spices. No substitutions this year.
       * We added some extra plain water that was boiling on the stove near the end of the boil to raise the volume.
-      * We ended at about 4.25-4.5 gallons.</ul>
+      * We ended at about 4.25-4.5 gallons.
