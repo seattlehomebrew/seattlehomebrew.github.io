@@ -1,6 +1,6 @@
 ---
 id: 257
-title: 'Punkin' Porter'
+title: 'Punkin&#8217; Porter'
 date: 2010-09-22T19:00:02+00:00
 author: Dave
 layout: post
