@@ -24,9 +24,9 @@ Before kicking off our brew day we did a side-by-side tasting of the 2012 and 20
 
 Previous batches:
 
-  * [2012 Punkin' Porter](/2012/09/2012-punkin-porter-brewday/)
-  * [2011 Punkin' Porter](/2011/09/punkin-porter-brewday-2011/)
-  * [2010 Punkin' Porter](/2010/09/punkin-porter-brewday/)
+  * [2012 Punkin' Porter](/2012/09/15/2012-punkin-porter-brewday)
+  * [2011 Punkin' Porter](/2011/09/27/punkin-porter-brewday-2011)
+  * [2010 Punkin' Porter](/2010/09/22/punkin-porter-brewday)
 
 ### Results
 
