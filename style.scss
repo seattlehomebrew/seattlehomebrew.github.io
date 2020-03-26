@@ -19,8 +19,9 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1 $openSans;
   color: $darkGray;
+  line-height: 1.5;
 }
 
 .container {
@@ -194,10 +195,10 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: $openSans;
+  font-weight: 700;
   font-size: 28px;
-  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 .site-description {
@@ -213,8 +214,9 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  font-family: $openSans;
+  font-size: 16px;
+  text-transform: uppercase;
 
   @include mobile {
     float: none;
