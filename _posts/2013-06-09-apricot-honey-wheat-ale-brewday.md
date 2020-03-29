@@ -13,7 +13,7 @@ tags:
   - Brew Day
   - Wheat Ale
 ---
-<img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mokfcpe4s61studqio1_12801-667x500.jpg" />
+![]({{ site.baseurl }}/images/posts/apricot-honey-wheat-1-667x500.jpg)
 
 This is a hodgepodge of a few recipes. I made my own apricot purée from fresh fruit. Hope it turns out ok! I made this one with help from my wife.
 
@@ -41,7 +41,7 @@ The first bottle that I tasted was the last bottle that I filled and had nearly 
 
 **Update August 17, 2013:** Different bottles have been pretty hit-or-miss. I think that we didn't let it settle enough after transferring to the bottling bucket—especially because we kept disturbing it by adding more apricot extract and re-stirring after each addition. We were probably too impatient.
 
-<img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mo5rpj1K2E1studqio1_12801-667x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/apricot-honey-wheat-2-667x500.jpg)
 
 ### Recipe
 
@@ -93,7 +93,8 @@ For the yeast I also considered 2565 Kolsch (for fruitiness) and 1010 American W
   * Tasted 
       * July 9, 2013 
 
-<img class="aligncenter" src="/wp-content/uploads/2013/07/tumblr_mo5rpj1K2E1studqio3_12801-667x500.jpg" alt="Gravity: 1.059" /> 
+![Gravity: 1.059]({{ site.baseurl }}/images/posts/apricot-honey-wheat-3-667x500.jpg)
+
 
   * **The wort is a very pretty color!**
   * **Very little aroma and bitter**  
@@ -104,4 +105,4 @@ For the yeast I also considered 2565 Kolsch (for fruitiness) and 1010 American W
     We tasted the wort before bottling and it had big apricot aroma but just a little apricot flavor up front. We started by adding 2oz of Apricot Extract (of a 4oz bottle) and let it settle before tasting. The extract made a noticeable difference: sweeter and more balanced.</p> 
     We ended up adding the full 4oz (one ounce at a time). You can taste the extract more than I wanted (almost like Pyramid Apricot Ale) but we put it all in to help balance the unexpected bitterness of the beer.</li> </ul> 
     
-<img class="aligncenter" src="/wp-content/uploads/2013/07/20130705-2034251-667x500.jpg" />
+![]({{ site.baseurl }}/images/posts/apricot-honey-wheat-4-667x500.jpg)
