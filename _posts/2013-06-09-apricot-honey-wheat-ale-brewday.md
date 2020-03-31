@@ -13,7 +13,7 @@ tags:
   - Brew Day
   - Wheat Ale
 ---
-![]({{ site.baseurl }}/images/posts/apricot-honey-wheat-1-667x500.jpg)
+![Apricot Honey Wheat Ale]({{ site.baseurl }}/images/posts/apricot-honey-wheat-1-667x500.jpg)
 
 This is a hodgepodge of a few recipes. I made my own apricot purée from fresh fruit. Hope it turns out ok! I made this one with help from my wife.
 

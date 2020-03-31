@@ -13,28 +13,28 @@ tags:
   - Belgian Ale
   - Brew Day
 ---
-<img class="alignleft" style="width:368px;" src="http://seattlehomebrew.com/wp-content/uploads/2013/07/1016904_10102192219401648_765203798_n1.jpg" />
+![Backyard Belgian]({{ site.baseurl }}/images/posts/backyard-belgian-2013-1-480x360.jpg){: .align-left}
 
 This is a late brew using last year's (2012) hop harvest.
 
-We followed the same recipe as the [2011 Harvest Backyard Pale](/2012/02/backyard-pale-2011-harvest-brewday/), but with a different hop breakdown. I didn't write down which yeast we used last time, so I got one package of American Ale yeast for this batch.
+We followed the same recipe as the [2011 Harvest Backyard Pale](/2012/02/13/backyard-pale-2011-harvest-brewday), but with a different hop breakdown. I didn't write down which yeast we used last time, so I got one package of American Ale yeast for this batch.
 
 <!--more-->
 
 ### Results
 
-<img class="alignright" src="/wp-content/uploads/2013/09/IMG_0832-375x500.jpg" style="width: 300px;" /> 
+![]({{ site.baseurl }}/images/posts/backyard-belgian-2013-2-225x300.jpg){: .align-right}
 
 ##### Overview
 
   * Starting gravity (actual) 
-      * oops! [(1.062&nbsp;in&nbsp;2011)](/2012/02/backyard-pale-2011-harvest-brewday/)
+      * oops! [(1.062&nbsp;in&nbsp;2011)](/2012/02/13/backyard-pale-2011-harvest-brewday/)
   * Final gravity (actual) 
       * 1.014
   * ABV 
       * ~6% 
 
-Wow! This year's version of the Backyard "Pale" **tastes completely different** from the [2011 Harvest](/2012/02/backyard-pale-2011-harvest-brewday/). It tastes like a yeasty _Belgian_ instead of a Pale Ale. And holy hell is it bubbly!
+Wow! This year's version of the Backyard "Pale" **tastes completely different** from the [2011 Harvest](/2012/02/13/backyard-pale-2011-harvest-brewday/). It tastes like a yeasty _Belgian_ instead of a Pale Ale. And holy hell is it bubbly!
 
 **Not a bad brew, but not at all what we were expecting.**
 
@@ -72,10 +72,9 @@ Wow! This year's version of the Backyard "Pale" **tastes completely different** 
       * August 5, 2013
   * Tasted 
       * August 19, 2013 
-          * </ul> </ul>  
           * **Wrong yeast?**  
             I didn't know which yeast we used for the 2011 Harvest, so I guessed that we used the generic American Ale yeast (Wyeast 1056). The flavor is very yeasty, but I'm surprised if this flavor came from the American Ale yeast.  It would make more sense if I had used a Belgian yeast.
           * **Wrong malt?  
 ** The old brewing notes said "light DME" but my options were Amber or Pilsen Light. I went with Pilsen Light instead of the darker Amber, so maybe that is the culprit?
         
-<img class="aligncenter" src="/wp-content/uploads/2013/07/20130715-2146291-667x500.jpg" />
+![]({{ site.baseurl }}/images/posts/backyard-belgian-2013-3-667x500.jpg)
