@@ -14,11 +14,11 @@ tags:
   - Brown Ale
   - Small Batch
 ---
-<img class="aligncenter" src="/wp-content/uploads/2013/07/20130725-231754-667x500.jpg" />
+![Apple Brown Betty]({{ site.baseurl }}/images/posts/apple-brown-betty-1-667x500.jpg)
 
 ### Half-Batch Brewing
 
-I'm trying out brewing a <a href="http://byo.com/stories/item/1378-small-scale-brewing" target="_blank">small (half) batch recipe</a> because this recipe might not be any good. Even if it is good, I don't know that I want a full 5 gallons of this, so I just split the recipe in half and left all of the timings the same.
+I'm trying out brewing a [small (half) batch recipe](http://byo.com/stories/item/1378-small-scale-brewing) because this recipe might not be any good. Even if it is good, I don't know that I want a full 5 gallons of this, so I just split the recipe in half and left all of the timings the same.
 
 A 2.5 gallon batch seemed like an easy task for the kitchen stove. Unfortunately, bringing 2.5 gallons to a boil took a lot longer on the stove than with the turkey fryer!
 
@@ -88,23 +88,22 @@ This recipe is from [_The Homebrewer's Recipe Guide_](http://www.amazon.com/gp/p
   * Tasted 
       * August 19, 2013 
 
-<img class="alignright" src="/wp-content/uploads/2013/07/20130725-230948-375x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/apple-brown-betty-2-375x500.jpg)
 
-  * **Dice the apples**  
-    During the boil I peeled, cored, and diced the first 2 lbs of apples (1 lb each of Red Delicious and Granny Smith) which ended up at just over 1.5 lbs
-  * **Steep the extras after boil**  
-    After the 60 minute boil, I steeped the Hallertau hops, diced apples and ground cinnamon for 30 minutes. I put the diced apples in a muslin bag to get them back out easily. Also nice since I had the wort chiller in the brew pot.
+* **Dice the apples**  
+  During the boil I peeled, cored, and diced the first 2 lbs of apples (1 lb each of Red Delicious and Granny Smith) which ended up at just over 1.5 lbs
+* **Steep the extras after boil**  
+  After the 60 minute boil, I steeped the Hallertau hops, diced apples and ground cinnamon for 30 minutes. I put the diced apples in a muslin bag to get them back out easily. Also nice since I had the wort chiller in the brew pot.
 
-<img class="aligncenter" src="/wp-content/uploads/2013/07/20130720-1735281-667x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/apple-brown-betty-3-667x500.jpg)
 
-  * **Adjust for high gravity**  
-    The gravity was extremely high at 1.072 (expected 1.053), but I added more water to get up to 2.5 gallons which brought the gravity down to about ~1.060.
+* **Adjust for high gravity**  
+  The gravity was extremely high at 1.072 (expected 1.053), but I added more water to get up to 2.5 gallons which brought the gravity down to about ~1.060.
 
-<img class="alignright" src="/wp-content/uploads/2013/07/20130725-222908-375x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/apple-brown-betty-4-375x500.jpg)
 
-  * **Make apple purée**  
-    After five days I added another 2 lbs of apple to the fermenter—this time puréed.</p> 
-    I cut the apples into chunks and discarded the cores before puréeing. Just like the apricot purée for the [Apricot Honey Wheat Ale](http://seattlehomebrew.com/2013/06/09/apricot-honey-wheat-ale-brewday), I heated the apple purée to ~160-170 degrees to get rid of any baddies. After cooling a bit, I put the apple purée in a mesh grain sack (to keep it from turning into a huge mess) added it to the secondary fermentation. I also added a single cinnamon stick.</li> 
-    
-      * **Transfer and add purée**  
-        I don't usually transfer for secondary fermentation. But since the primary was in a carboy I did transfer to a bucket for secondary fermentation because of the apple purée. One week later (August 1) I pulled the sack of apple purée out of the fermentation bucket, but left the beer (and cinnamon stick) for another few days.</ul>
+* **Make apple purée**  
+  After five days I added another 2 lbs of apple to the fermenter—this time puréed.   
+  I cut the apples into chunks and discarded the cores before puréeing. Just like the apricot purée for the [Apricot Honey Wheat Ale](/2013/06/09/apricot-honey-wheat-ale-brewday), I heated the apple purée to ~160-170 degrees to get rid of any baddies. After cooling a bit, I put the apple purée in a mesh grain sack (to keep it from turning into a huge mess) added it to the secondary fermentation. I also added a single cinnamon stick.   
+* **Transfer and add purée**  
+  I don't usually transfer for secondary fermentation. But since the primary was in a carboy I did transfer to a bucket for secondary fermentation because of the apple purée. One week later (August 1) I pulled the sack of apple purée out of the fermentation bucket, but left the beer (and cinnamon stick) for another few days.
