@@ -88,7 +88,7 @@ This recipe is from [_The Homebrewer's Recipe Guide_](http://www.amazon.com/gp/p
   * Tasted 
       * August 19, 2013 
 
-![]({{ site.baseurl }}/images/posts/apple-brown-betty-2-375x500.jpg)
+![]({{ site.baseurl }}/images/posts/apple-brown-betty-2-375x500.jpg){: .align-right}
 
 * **Dice the apples**  
   During the boil I peeled, cored, and diced the first 2 lbs of apples (1 lb each of Red Delicious and Granny Smith) which ended up at just over 1.5 lbs
@@ -100,7 +100,7 @@ This recipe is from [_The Homebrewer's Recipe Guide_](http://www.amazon.com/gp/p
 * **Adjust for high gravity**  
   The gravity was extremely high at 1.072 (expected 1.053), but I added more water to get up to 2.5 gallons which brought the gravity down to about ~1.060.
 
-![]({{ site.baseurl }}/images/posts/apple-brown-betty-4-375x500.jpg)
+![]({{ site.baseurl }}/images/posts/apple-brown-betty-4-375x500.jpg){: .align-right}
 
 * **Make apple purée**  
   After five days I added another 2 lbs of apple to the fermenter—this time puréed.   
