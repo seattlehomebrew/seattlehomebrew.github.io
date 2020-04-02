@@ -111,6 +111,16 @@ img {
   max-width: 100%;
 }
 
+img.align-left {
+  float: left;
+  margin: 0 1em 0 0;
+}
+
+img.align-right {
+  float: right;
+  margin: 0 0 0 1em;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -245,6 +255,7 @@ nav {
 //
 
 .posts > .post {
+  overflow: auto;
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
