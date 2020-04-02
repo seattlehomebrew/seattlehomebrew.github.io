@@ -13,7 +13,7 @@ tags:
   - Belgian Ale
   - Brew Day
 ---
-<div style="overflow: auto;"> 
+<div markdown="1" style="overflow: auto;"> 
    ![Backyard Belgian]({{ site.baseurl }}/images/posts/backyard-belgian-2013-1-367x450.jpg){: .align-left}
    
    This is a late brew using last year's (2012) hop harvest.
