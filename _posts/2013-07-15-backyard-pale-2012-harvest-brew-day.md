@@ -67,17 +67,18 @@ Wow! This year's version of the Backyard "Pale" **tastes completely different** 
 
 ##### Timeline
 
-  * Brewed 
-      * July 15, 2013
-  * Transferred 
-      * N/A
-  * Bottled 
-      * August 5, 2013
-  * Tasted 
-      * August 19, 2013 
-          * **Wrong yeast?**  
-            I didn't know which yeast we used for the 2011 Harvest, so I guessed that we used the generic American Ale yeast (Wyeast 1056). The flavor is very yeasty, but I'm surprised if this flavor came from the American Ale yeast.  It would make more sense if I had used a Belgian yeast.
-          * **Wrong malt?  
-** The old brewing notes said "light DME" but my options were Amber or Pilsen Light. I went with Pilsen Light instead of the darker Amber, so maybe that is the culprit?
+* Brewed 
+  * July 15, 2013
+* Transferred 
+  * N/A
+* Bottled 
+  * August 5, 2013
+* Tasted 
+  * August 19, 2013 
+      
+* **Wrong yeast?**  
+  I didn't know which yeast we used for the 2011 Harvest, so I guessed that we used the generic American Ale yeast (Wyeast 1056). The flavor is very yeasty, but I'm surprised if this flavor came from the American Ale yeast.  It would make more sense if I had used a Belgian yeast.
+* **Wrong malt?  
+  ** The old brewing notes said "light DME" but my options were Amber or Pilsen Light. I went with Pilsen Light instead of the darker Amber, so maybe that is the culprit?
         
 ![]({{ site.baseurl }}/images/posts/backyard-belgian-2013-3-667x500.jpg)
