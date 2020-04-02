@@ -109,6 +109,11 @@ strong, b {
 
 img {
   max-width: 100%;
+  max-height: 30rem;
+  background-color: $darkGray;
+  padding: .3em;
+  display: block;
+  margin: auto;
 }
 
 img.align-left {
