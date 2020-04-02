@@ -24,7 +24,7 @@ tags:
 <!--more-->
 
 ### Results
-![]({{ site.baseurl }}/images/posts/backyard-belgian-2013-2-225x300.jpg){: .align-right}
+![]({{ site.baseurl }}/images/posts/backyard-belgian-2013-2-375x500.jpg){: .align-right}
 
 ##### Overview
 
