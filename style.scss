@@ -118,12 +118,12 @@ img {
 
 img.align-left {
   float: left;
-  margin: 0 1em 0 0;
+  margin: 0 1em 1em 0;
 }
 
 img.align-right {
   float: right;
-  margin: 0 0 0 1em;
+  margin: 0 0 1em 1em;
 }
 
 // Fixes images in popup boxes from Google Translate
