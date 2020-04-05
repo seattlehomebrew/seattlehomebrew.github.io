@@ -10,9 +10,11 @@ original_post_id:
   - "255"
 categories:
   - Lazy Boy Amber
-tags: [Amber, Brew Day]
+tags:
+  - Amber
+  - Brew Day
 ---
-<img src="http://farm5.static.flickr.com/4113/5006018504_e9a1bd907d.jpg" alt="Lazy Boy Amber" class="aligncenter" />
+![Lazy Boy Amber](http://farm5.static.flickr.com/4113/5006018504_e9a1bd907d.jpg)
 
 Our first attempt at homebrewing was a kit for an Amber Ale from Lazy Boy Brewing.
 
