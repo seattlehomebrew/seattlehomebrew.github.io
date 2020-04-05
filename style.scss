@@ -312,7 +312,7 @@ a.post-tag {
   margin-right: 5px;
   text-decoration: none;
 
-  :hover {
+  &:hover {
     border: 2px solid $gray;
     color: $gray;
   }
