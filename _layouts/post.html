@@ -5,7 +5,14 @@ layout: default
 <article class="post">
   <div class="meta">
     <div class="date">
-      {{ page.date | date: "%B %e, %Y" }}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ page.date | date: "%B %e, %Y" }}
+      </a>
+    </div>
+    <div class="categories">
+      {% for category in page.categories %}
+        <a href="{{ site.baseurl }}{{ site.category_page }}#{{ category | slugify }}" class="post-category">{{ category }}</a>
+      {% endfor %}
     </div>
     <div class="tags">
       {% for tag in page.tags %}
