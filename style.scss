@@ -141,11 +141,14 @@ img.align-right {
   max-width: none;
 }
 
-a.post-category, .date {
+.date, a.post-category {
   text-transform: uppercase;
   color: $lightBlue;
   font-weight: 700;
-  padding: 0.3em 0;
+}
+
+.date, .categories {
+  margin: 0 0 0.3em;
 }
 
 // Specify the color of the selection
