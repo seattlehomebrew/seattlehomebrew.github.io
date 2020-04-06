@@ -283,7 +283,7 @@ nav {
 
 .posts > .post {
   overflow: auto;
-  padding-bottom: 2em;
+  padding: 1em 0 5em;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -325,8 +325,8 @@ a.post-tag {
   text-decoration: none;
 
   &:hover {
-    border: 2px solid $gray;
-    color: $gray;
+    border: 2px solid $lightGray;
+    color: $lightGray;
   }
 }
 
