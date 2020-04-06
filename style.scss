@@ -141,7 +141,7 @@ img.align-right {
   max-width: none;
 }
 
-.date {
+a.post-category, .date {
   text-transform: uppercase;
   color: $lightBlue;
   font-weight: 700;
@@ -304,7 +304,7 @@ nav {
 
 a.post-tag {
   display: inline-block;
-  color: #2390bb;
+  color: $lightBlue;
   border: 2px solid $lightBlue;
   -webkit-border-radius: 2px;
   border-radius: 2px;
