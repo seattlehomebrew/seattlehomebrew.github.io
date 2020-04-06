@@ -11,7 +11,9 @@ layout: default
     </div>
     <div class="categories">
       {% for category in page.categories %}
-        <a href="{{ site.baseurl }}{{ site.category_page }}#{{ category | slugify }}" class="post-category">{{ category }}</a>
+        <span class="post-category">
+          <a href="{{ site.baseurl }}{{ site.category_page }}#{{ category | slugify }}" class="post-category">{{ category }}</a>
+        </span>,
       {% endfor %}
     </div>
     <div class="tags">
