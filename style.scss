@@ -148,13 +148,13 @@ img.align-right {
   max-width: none;
 }
 
-.date, a.post-category {
+.date, .post-category {
   text-transform: uppercase;
   color: $blue;
-  font-weight: 700;
 }
 
 .date, .categories {
+  font-weight: 700;
   margin: 0 0 0.3em;
 }
 
