@@ -142,8 +142,8 @@ img.align-right {
 }
 
 .date {
-  font-style: italic;
-  color: $gray;
+  text-transform: capitalize;
+  color: $lightBlue;
 }
 
 // Specify the color of the selection
