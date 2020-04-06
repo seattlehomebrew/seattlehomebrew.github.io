@@ -142,8 +142,10 @@ img.align-right {
 }
 
 .date {
-  text-transform: capitalize;
+  text-transform: uppercase;
   color: $lightBlue;
+  font-weight: 700;
+  padding: 0.3em 0;
 }
 
 // Specify the color of the selection
