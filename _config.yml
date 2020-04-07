@@ -52,7 +52,7 @@ url: https://seattlehomebrew.github.io
 baseurl: ""
 
 # path of the tags page (relative to teh baseurl)
-tag_page: "/tags"
+tag_page: "/tags/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
