@@ -148,9 +148,12 @@ img.align-right {
   max-width: none;
 }
 
+.date {
+  color: $gray;
+}
+
 .date, .post-category {
   display: block;
-  color: $gray;
   text-transform: uppercase;
 }
 
