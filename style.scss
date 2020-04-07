@@ -293,6 +293,10 @@ nav {
   overflow: auto;
   padding: 1em 0 5em;
   border-bottom: 1px solid $lightGray;
+
+  > h1 {
+    margin: 0.2em 0;
+  }
 }
 
 .posts > .post:last-child {
