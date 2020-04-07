@@ -148,8 +148,9 @@ img.align-right {
   max-width: none;
 }
 
-.date {
-  color: $gray;
+.date, .categories {
+  font-weight: 700;
+  margin: 0 0 0.3em;
 }
 
 .date, .post-category {
@@ -157,9 +158,12 @@ img.align-right {
   text-transform: uppercase;
 }
 
-.date, .categories {
-  font-weight: 700;
-  margin: 0 0 0.3em;
+.date {
+  color: $gray;
+}
+
+.post-category {
+  color: $lightGray;
 }
 
 // Specify the color of the selection
@@ -318,8 +322,8 @@ nav {
 
 a.post-tag {
   display: inline-block;
-  color: $blue;
-  border: 2px solid $blue;
+  color: $lightGray;
+  border: 2px solid $lightGray;
   -webkit-border-radius: 2px;
   border-radius: 2px;
   background-clip: padding-box;
@@ -329,8 +333,8 @@ a.post-tag {
   text-decoration: none;
 
   &:hover {
-    border: 2px solid $lightGray;
-    color: $lightGray;
+    border: 2px solid $blue;
+    color: $blue;
   }
 }
 
