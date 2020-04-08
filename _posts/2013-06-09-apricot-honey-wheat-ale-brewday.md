@@ -9,9 +9,9 @@ permalink: /2013/06/09/apricot-honey-wheat-ale-brewday/
 categories:
   - Apricot Honey Wheat Ale
 tags:
-  - Apricot
   - Brew Day
   - Wheat Ale
+  - Apricot
 ---
 ![Apricot Honey Wheat Ale]({{ site.baseurl }}/images/posts/apricot-honey-wheat-1-667x500.jpg)
 
