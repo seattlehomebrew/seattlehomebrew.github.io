@@ -11,8 +11,8 @@ original_post_id:
 categories:
   - Lazy Boy Amber
 tags:
-  - Amber
   - Brew Day
+  - Amber Ale
 ---
 ![Lazy Boy Amber](http://farm5.static.flickr.com/4113/5006018504_e9a1bd907d.jpg)
 
