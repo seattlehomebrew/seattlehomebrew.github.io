@@ -9,9 +9,9 @@ permalink: /2013/07/15/backyard-pale-2012-harvest-brew-day/
 categories:
   - Backyard Pale
 tags:
+  - Brew Day
   - Backyard Hops
   - Belgian Ale
-  - Brew Day
 ---
 <div markdown="1" style="overflow: auto;"> 
    ![Backyard Belgian]({{ site.baseurl }}/images/posts/backyard-belgian-2013-1-367x450.jpg){: .align-left}
