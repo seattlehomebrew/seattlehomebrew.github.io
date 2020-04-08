@@ -15,13 +15,15 @@
 
 html {
   font-size: 100%;
+  /* Prevent iOS text size adjust after orientation change, without disabling user zoom */
+  /* http://www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
   background: $white;
-  font: 16px/1 $openSans;
+  font: 18px/1.5 $openSans;
   color: $darkGray;
-  line-height: 1.5;
 }
 
 .container {
