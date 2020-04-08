@@ -11,9 +11,9 @@ categories:
   - Canadian Imperial Stout
   - "The Homebrewer's Recipe Guide"
 tags:
-  - Barrel-Aged
   - Brew Day
   - Stout
+  - Barrel-Aged
 ---
 ![]({{ site.baseurl }}/images/posts/barrel-aged-canadian-imperial-stout-2013-1-755x500.jpg)
 
