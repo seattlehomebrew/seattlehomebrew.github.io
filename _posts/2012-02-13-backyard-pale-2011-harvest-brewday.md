@@ -11,6 +11,7 @@ original_post_id:
 categories:
   - Backyard Pale
 tags:
+  - Brew Day
   - Backyard Hops
   - Pale Ale
 ---
