@@ -9,9 +9,9 @@ permalink: /2012/11/23/tipsy-trappist-ale-brewday/
 categories:
   - Tipsy Trappist
 tags:
+  - Brew Day
   - Abbey Beer
   - Belgian Ale
-  - Brew Day
   - Partial Mash
 ---
 This is our second test beer as a candidate for [barrel aging](/category/the-story-of-barry/?order=ASC). We followed the recipe from [BYO’s Belgian Abbey Style of the Month article](http://www.byo.com/stories/item/200-belgian-abbey-ale-style-of-the-month) (although the link is apparently dead). We also got a little help from our buddy Ty on this batch!
