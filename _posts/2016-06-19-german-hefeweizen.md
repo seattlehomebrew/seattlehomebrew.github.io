@@ -13,7 +13,7 @@ tags:
   - Hefeweizen
 ---
 
-![German Hefeweizen]({{ site.baseurl }}/images/posts/german-hefeweizen-1-667x500.jpg)
+![German Hefeweizen]({{ site.baseurl }}/images/posts/german-hefeweizen-1-587x500.jpg)
 
 I wanted to brew a simple German Hefeweizen with lots of banana and clove flavors for the summer. The recipe is pretty simple so I figured it would be pretty easy. Right?
 
