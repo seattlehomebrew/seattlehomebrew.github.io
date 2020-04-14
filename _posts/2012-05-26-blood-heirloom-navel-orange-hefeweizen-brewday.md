@@ -48,12 +48,12 @@ The beer wasn't fully carbonated when we first tasted it (see picture at top). T
 ##### Hops
 
   * 0.5 oz Hallertau hop pellets  
-    **(used German Hersbrucker)**</p> 
+    **(used German Hersbrucker)**
       * 60 minutes
   * 0.5 oz Saaz hop pellets 
       * 20 minutes
   * 0.5 oz Hallertau hop pellets  
-    **(used German Hersbrucker)**</p> 
+    **(used German Hersbrucker)**
       * 10 minutes
 
 ##### Yeast

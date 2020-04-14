@@ -98,14 +98,15 @@ Here is the recipe that I used, which differs slightly from both of those links.
 
 ##### Timeline
 
-  * Brewed 
-      * August 6, 2016 by myself
-  * Dry Hopped 
-      * August 16, 2016
-      * Kegged 
-          * August 21, 2016
-      * Tasted 
-          * August 27, 2016</ul>  
+* Brewed 
+  * August 6, 2016 by myself
+* Dry Hopped 
+  * August 16, 2016
+* Kegged 
+  * August 21, 2016
+* Tasted 
+  * August 27, 2016  
+
 <img src="http://seattlehomebrew.com/wp-content/uploads/2016/08/IMG_5146-576x500.jpg" class="aligncenter" /> 
     
     **Stovetop Brewing:**
@@ -121,12 +122,12 @@ Here is the recipe that I used, which differs slightly from both of those links.
       * Late in the wort boil, at around the 10 and 2 minute marks (when adding the jasmine and hops), I noticed that I no longer had a rolling boil. Maybe I didn't get enough good stuff extracted out of the late-add ingredients (flavoring and aroma)?
       * I wasn't sure if I should use two packages of yeast or not. The gravity isn't terribly high, but I thought that the extra packet might help avoid diacetyl problems.  
   
-        But then, this:</p> 
+        But then, this:
         > **Yeast Pitch Rate**  
         > Your pitch rate is one of the most critical factors when brewing an IPA or Double IPA. Too much yeast and you could end up with less bitterness due to the fact that the yeast takes up bitterness from the beer.  
         > _&#8212; Vinnie Cilurzo, 10 Factors to Making Better Hoppy Beers_ 
         
-        So maybe I should have stuck with just one package. </li> </ul> 
+        So maybe I should have stuck with just one package.
         
         **Post-Brew:**
         

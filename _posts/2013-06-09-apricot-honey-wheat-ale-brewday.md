@@ -102,7 +102,7 @@ For the yeast I also considered 2565 Kolsch (for fruitiness) and 1010 American W
   * **Apricot purée**  
     We added the apricot puree after a week, but could have done it as early as 3 days. I had expected that the sugar from the apricots would cause the wort to start fermenting again, but I never noticed any bubbles or activity.
   * **Apricot extract**  
-    We tasted the wort before bottling and it had big apricot aroma but just a little apricot flavor up front. We started by adding 2oz of Apricot Extract (of a 4oz bottle) and let it settle before tasting. The extract made a noticeable difference: sweeter and more balanced.</p> 
-    We ended up adding the full 4oz (one ounce at a time). You can taste the extract more than I wanted (almost like Pyramid Apricot Ale) but we put it all in to help balance the unexpected bitterness of the beer.</li> </ul> 
+    We tasted the wort before bottling and it had big apricot aroma but just a little apricot flavor up front. We started by adding 2oz of Apricot Extract (of a 4oz bottle) and let it settle before tasting. The extract made a noticeable difference: sweeter and more balanced.
+    We ended up adding the full 4oz (one ounce at a time). You can taste the extract more than I wanted (almost like Pyramid Apricot Ale) but we put it all in to help balance the unexpected bitterness of the beer.
     
 ![]({{ site.baseurl }}/images/posts/apricot-honey-wheat-4-667x500.jpg)

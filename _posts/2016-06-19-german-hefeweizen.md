@@ -48,7 +48,7 @@ Maybe it wasn't quite done fermenting yet? It had been 12 days. Or maybe the yea
 ##### Hops
 
   * 1 oz Spalt pellet hops 
-      * 50 minutes</ul> 
+      * 50 minutes
     ##### Yeast
     
       * 1 package Wyeast 3068 Weihenstephan Weizen 
@@ -64,53 +64,7 @@ Maybe it wasn't quite done fermenting yet? It had been 12 days. Or maybe the yea
           * July 1, 2016
       * Tasted 
           * July 5, 2016 (?) 
-    <!--table>
 
-
-<tr>
-
-
-<td>Brewed</td>
-
-
-
-<td>June 19, 2016 by myself</td>
-
-
-</tr>
-
-
-
-
-<tr>
-
-
-<td>Kegged</td>
-
-
-
-<td>July 1, 2016</td>
-
-
-</tr>
-
-
-
-
-<tr>
-
-
-<td>Tasted</td>
-
-
-
-<td>July 5, 2016 (?)</td>
-
-
-</tr>
-
-
-</table-->
     
 <img src="http://seattlehomebrew.com/wp-content/uploads/2016/06/IMG_4780-001-1024x431.jpg" class="aligncenter" /> 
     

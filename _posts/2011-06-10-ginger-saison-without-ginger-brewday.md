@@ -58,7 +58,7 @@ We followed the Ginger Saison recipe from Sam Calagione's [_Extreme Brewing_](ht
 
   * 1 lb Belgian candi sugar 
       * 15 minutes
-  * <strike>2 oz crystallized ginger</strike> 
+  * ~~2 oz crystallized ginger~~
 
 ### Brewing Notes
 
@@ -76,7 +76,7 @@ We followed the Ginger Saison recipe from Sam Calagione's [_Extreme Brewing_](ht
   * **Low wort volume**  
     We started our boil with roughly 5 gallons (instead of the 4.5 in the recipe) and had one boil-over.  We added an extra 1/2-3/4 gallon of water at the end of the boil. After transferring to the carboy we were still at only 4.5 gallons so we topped off to just under 5. Unfortunately, we measured the gravity before this final top-off.
   * **High gravity**  
-    Even adding all of that water, the measured gravity when bottling was still _very_ high (1.032 instead of 1.015). We later learned that this was likely because the yeast we used (Wyeast 3724 Belgian Saison) has a high activation temperature. From the [Wyeast website](https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=60):</p> 
+    Even adding all of that water, the measured gravity when bottling was still _very_ high (1.032 instead of 1.015). We later learned that this was likely because the yeast we used (Wyeast 3724 Belgian Saison) has a high activation temperature. From the [Wyeast website](https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=60):
     > This strain is notorious for a rapid and vigorous start to fermentation, **only to stick around 1.035 S.G.** Fermentation will finish, **given time and warm temperatures.** Warm fermentation temperatures, at least 90°F (32°C), or the use of a secondary strain can accelerate attenuation.
 
   * **Bottle bombs!**  

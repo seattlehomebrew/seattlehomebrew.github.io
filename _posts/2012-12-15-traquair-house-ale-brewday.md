@@ -55,16 +55,16 @@ I tasted this after a couple of weeks and it’s not great and pretty flat.
 ##### Hops
 
   * 2 oz East Kent Goldings (bittering)**  
-    (substituted US Goldings)**</p> 
+    (substituted US Goldings)**
       * 60 minutes
   * 1 oz East Kent Goldings (flavor)**  
-    (substituted Fuggle)**</p> 
+    (substituted Fuggle)**
       * 15 minutes
   * 1 oz East Kent Goldings (aroma)**  
-    (substituted Fuggle)**</p> 
+    (substituted Fuggle)**
       * 2 minutes
   * 0.5 oz Fuggle (dry hop)**  
-    (we skipped)**</p> 
+    (we skipped)**
       * 5-7 days
 
 ##### Yeast

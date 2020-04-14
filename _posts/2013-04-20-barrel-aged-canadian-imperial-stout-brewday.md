@@ -57,13 +57,13 @@ The recipe for a single batch, with substitutions noted:
 ##### Hops
 
   * 4oz Northern Brewer (A=9.6%) (bittering)  
-    **(used Nugget A=13.3%)**</p> 
+    **(used Nugget A=13.3%)**
       * 60 minutes
   * 4oz Fuggle (A=5.7%) (flavoring)  
-    **(used US Saaz A=7.6%)**</p> 
+    **(used US Saaz A=7.6%)**
       * 30 minutes
   * 1oz Cascade (aroma)  
-    **(2oz pellet, 2oz leaf)**</p> 
+    **(2oz pellet, 2oz leaf)**
       * 10 minutes
 
 ##### Yeast
