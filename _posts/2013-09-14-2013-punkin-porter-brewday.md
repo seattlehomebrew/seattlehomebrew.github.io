@@ -14,7 +14,8 @@ tags:
   - Porter
   - Pumpkin
 ---
-<img class="aligncenter" src="/wp-content/uploads/2013/09/IMG_0857-667x500.jpg" />
+
+![Punkin' Porter]({{ site.baseurl }}/images/posts/punkin-porter-2013-1-667x500.jpg)
 
 This is the fourth year of brewing the Punkin' Porter, which is the only one of our brews that has made so many repeat appearances.
 
@@ -43,7 +44,7 @@ Previous batches:
   * ABV 
       * 8% 
 
-<img class="alignright" style="width: 360px;" src="/wp-content/uploads/2013/11/IMG_0943-500x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/punkin-porter-2013-2-500x500.jpg){: .align-right}
 
 The photo makes it look as though there is more carbonation than there really is, but at least it isn't flat. I'm very happy that it has any carbonation after the disaster of our first attempt to keg carbonate and bottle with a counter-pressure bottle filler.
 
@@ -84,7 +85,7 @@ Tastes good and roasty with a nice amount of spice. If anything I think it's a l
   * 1 tsp nutmeg (dried/ground) 
       * 5 minutes 
 
-<img class="aligncenter" src="/wp-content/uploads/2013/09/DSC05720-752x500.jpg" /> 
+![]({{ site.baseurl }}/images/posts/punkin-porter-2013-3-752x500.jpg)
 
 ### Brewing Notes
 
