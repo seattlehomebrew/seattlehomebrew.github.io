@@ -98,7 +98,7 @@ Tastes good and roasty with a nice amount of spice. If anything I think it's a l
   * Tasted 
       * October 17, 2013 
 
-We followed the [_Extreme Brewing_](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934) recipe but only used canned pumpkin this year.
+We followed the [_Extreme Brewing_](https://www.amazon.com/dp/1592532934/ref=ss_til?tag=seatthomeb-20&linkCode=w00&linkId=&creativeASIN=1592532934) recipe but only used canned pumpkin this year.
 
   * **We used _even more_ Libby’s canned pumpkin**  
     We used two 29oz cans of Libby's pumpkin purée and one 29oz can of Libby's Pumpkin Pie mix (which is purée with pumpkin pie seasoning)

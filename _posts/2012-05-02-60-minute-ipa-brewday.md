@@ -17,7 +17,7 @@ tags:
 ---
 ![60 Minute IPA]({{ site.baseurl }}/images/posts/60-minute-ipa-2012-375x500.jpg)
 
-The beautiful and delicious 60 Minute IPA. We followed the _[Extreme Brewing](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934)_ recipe as close as we could. 
+The beautiful and delicious 60 Minute IPA. We followed the _[Extreme Brewing](https://www.amazon.com/dp/1592532934/ref=ss_til?tag=seatthomeb-20&linkCode=w00&linkId=&creativeASIN=1592532934)_ recipe as close as we could. 
 
 <!--more-->
 

@@ -18,7 +18,7 @@ tags:
 ---
 ![Orange Hefeweizen]({{ site.baseurl }}/images/posts/orange-hefeweizen-2012-1.jpg)
 
-We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=seatthomeb-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1592532934) but instead of out-of-season blood oranges we used in-season heirloom navel oranges. We know that it won't be much like the recipe, but it still sounds good.
+We used the recipe for the Blood Orange Hefeweizen from [_Extreme Brewing_](https://www.amazon.com/dp/1592532934/ref=ss_til?tag=seatthomeb-20&linkCode=w00&linkId=&creativeASIN=1592532934) but instead of out-of-season blood oranges we used in-season heirloom navel oranges. We know that it won't be much like the recipe, but it still sounds good.
 
 <!--more-->
 

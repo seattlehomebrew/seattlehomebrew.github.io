@@ -94,7 +94,7 @@ We had some early problems with carbonation, but this year's Punkin' Porter turn
   * Tasted 
       * October 27, 2011
 
-This is the recipe from [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB) with some minor modifications based on [last year's results](/2010/09/22/punkin-porter-brewday/).
+This is the recipe from [_Extreme Brewing_](https://www.amazon.com/dp/1592532934/ref=ss_til?tag=seatthomeb-20&linkCode=w00&linkId=&creativeASIN=1592532934) with some minor modifications based on [last year's results](/2010/09/22/punkin-porter-brewday/).
 
 * **We used way more pumpkin this time than previously**  
   The recipe calls for 30oz of canned pumpkin, but _we used 44oz_ (of Libby's).  

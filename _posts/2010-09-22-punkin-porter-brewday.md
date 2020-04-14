@@ -18,7 +18,7 @@ tags:
 ---
 ![Punkin' Porter]({{ site.baseurl }}/images/posts/punkin-porter-2010.jpg)
 
-We're trying the Punkin' Porter recipe out of [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB).
+We're trying the Punkin' Porter recipe out of [_Extreme Brewing_](https://www.amazon.com/dp/1592532934/ref=ss_til?tag=seatthomeb-20&linkCode=w00&linkId=&creativeASIN=1592532934).
 
 <!--more-->
 

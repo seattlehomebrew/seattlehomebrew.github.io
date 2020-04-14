@@ -17,9 +17,9 @@ tags:
 ---
 ![Ginger Saison (without Ginger)]({{ site.baseurl }}/images/posts/ginger-saison-2011-1-667x500.jpg)
 
-Today we wanted to do a Saison–something substantially different from [The Hopfather](http://seattlehomebrew.com/2011/06/03/the-hopfather-part-ii-brewday/), but still light enough for easy summer drinking.
+Today we wanted to do a Saison–something substantially different from [The Hopfather](/2011/06/03/the-hopfather-part-ii-brewday/), but still light enough for easy summer drinking.
 
-We followed the Ginger Saison recipe from Sam Calagione's [_Extreme Brewing_](http://www.amazon.com/gp/product/0785829067/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0785829067&linkCode=as2&tag=seatthomeb-20&linkId=ZDJNHAVNCB6RPTJB), but did not include the ginger because we've had some less-than-pleasant results when using ginger in the past. Two recipes that included ginger–the [Gingerbread Brown](http://seattlehomebrew.com/2010/11/13/gingerbread-brown-brewday/) and a Fruitcake beer–were both overwhelmingly gingery. This time we just wanted a nice easy-to-drink Saison.
+We followed the Ginger Saison recipe from Sam Calagione's [_Extreme Brewing_](https://www.amazon.com/dp/1592532934/ref=ss_til?tag=seatthomeb-20&linkCode=w00&linkId=&creativeASIN=1592532934), but did not include the ginger because we've had some less-than-pleasant results when using ginger in the past. Two recipes that included ginger–the [Gingerbread Brown](/2010/11/13/gingerbread-brown-brewday/) and a Fruitcake beer–were both overwhelmingly gingery. This time we just wanted a nice easy-to-drink Saison.
 
 <!--more-->
 
