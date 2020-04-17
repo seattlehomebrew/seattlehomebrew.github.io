@@ -15,7 +15,7 @@ tags:
   - Brew Day
   - Pumpkin
 ---
-![Pumpkin Belgian Blonde]({{ site.baseurl }}/images/posts/punkin-belgian-blonde-2016-1-500x500)
+![Pumpkin Belgian Blonde]({{ site.baseurl }}/images/posts/punkin-belgian-blonde-2016-1-500x500.jpg)
 
 For our annual pumpkin beer this year, we wanted to try something new. Jer found this article about [designing the perfect pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/), and the mention of a Belgian pumpkin ale sparked our interest. Maybe we'll get more pumpkin flavor with a lighter beer (compared to our usual [Punkin' Porter](/tags/#pumpkin) recipe).
 
@@ -25,7 +25,7 @@ See all of our previous [Pumpkin Beers here](/tags/#pumpkin)
 
 ## Results
 
-![]({{ site.baseurl }}/images/posts/punkin-belgian-blonde-2016-2-249x300.jpg){: .align-left}
+![]({{ site.baseurl }}/images/posts/punkin-belgian-blonde-2016-2-249x300.jpg){: .align-right}
 
 #### Overview
 
@@ -122,7 +122,7 @@ We started with the clone recipe for the Double Enghien Blonde Ale in the [Clone
   
   <tr>
     <td>
-      8 oz Belgian clear candy sugar<br /> **(used Blonde candi syrup)**
+      8 oz Belgian clear candy sugar<br /> <strong>(used Blonde candi syrup)</strong>
     </td>
   </tr>
 </table>
@@ -152,7 +152,7 @@ We started with the clone recipe for the Double Enghien Blonde Ale in the [Clone
   
   <tr>
     <td>
-      0.25 oz German Hallertau pellet hops **(used another 0.25 oz East Kent Golding)**
+      0.25 oz German Hallertau pellet hops<br/> <strong>(used another 0.25 oz East Kent Golding)</strong>
     </td>
     
     <td>
