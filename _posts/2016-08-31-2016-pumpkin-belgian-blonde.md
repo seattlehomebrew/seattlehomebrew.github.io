@@ -15,17 +15,17 @@ tags:
   - Brew Day
   - Pumpkin
 ---
-<img src="/wp-content/uploads/2016/08/14980711_1153562208060795_7630834096804504387_n-500x500.jpg" class="aligncenter" />
+![Pumpkin Belgian Blonde]({{ site.baseurl }}/images/posts/punkin-belgian-blonde-2016-1-500x500)
 
-For our annual pumpkin beer this year, we wanted to try something new. Jer found this article about [designing the perfect pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/), and the mention of a Belgian pumpkin ale sparked our interest. Maybe we'll get more pumpkin flavor with a lighter beer (compared to our usual [Punkin' Porter](/category/brews/punkin-porter/) recipe).
+For our annual pumpkin beer this year, we wanted to try something new. Jer found this article about [designing the perfect pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/), and the mention of a Belgian pumpkin ale sparked our interest. Maybe we'll get more pumpkin flavor with a lighter beer (compared to our usual [Punkin' Porter](/tags/#pumpkin) recipe).
 
-See all of our previous [Pumpkin Beers here](/tag/pumpkin/)
+See all of our previous [Pumpkin Beers here](/tags/#pumpkin)
 
 <!--more-->
 
 ## Results
 
-<img src="/wp-content/uploads/2016/08/IMG_5336-e1474693428246-415x500.jpg" class="alignright" style="width: 312px;" /> 
+![]({{ site.baseurl }}/images/posts/punkin-belgian-blonde-2016-2-249x300.jpg){: .align-left}
 
 #### Overview
 
@@ -83,13 +83,13 @@ See all of our previous [Pumpkin Beers here](/tag/pumpkin/)
 
 It's not bad, but it's not great. Much better than we expected when tasting the beer during bottling. It wasn't fully carbonated when cracking open the first bottle after 12 days, but was on its way.
 
-I think my favorite year so far has been the [2013 batch](http://seattlehomebrew.com/2013/09/14/2013-punkin-porter-brewday/).
+I think my favorite year so far has been the [2013 batch](/2013/09/14/2013-punkin-porter-brewday/).
 
 **_Update:_** After another week or so the beer did get carbonated and is actually pretty good. It's got **a lot of pumpkin flavor and a lot of spice**. Maybe too much squash flavor. I wouldn't repeat this recipe exactly, but it's much better than the brew notes (below) were predicting.
 
 ## Recipe
 
-<img src="/wp-content/uploads/2016/08/IMG_5319-001-700x500.jpg" class="aligncenter" /> 
+![]({{ site.baseurl }}/images/posts/punkin-belgian-blonde-2016-3-700x500.jpg)
 
 We started with the clone recipe for the Double Enghien Blonde Ale in the [CloneBrews](http://www.amazon.com/gp/product/160342539X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160342539X&linkCode=as2&tag=seatthomeb-20&linkId=QJWZLEAN33BGBN5G) book. We made a few substitutions based on what was available, but nothing that should be a problem.
 
@@ -122,7 +122,7 @@ We started with the clone recipe for the Double Enghien Blonde Ale in the [Clone
   
   <tr>
     <td>
-      8 oz Belgian clear candy sugar<br /> <strong>(used Blonde candi syrup)</strong>
+      8 oz Belgian clear candy sugar<br /> **(used Blonde candi syrup)**
     </td>
   </tr>
 </table>
@@ -152,120 +152,106 @@ We started with the clone recipe for the Double Enghien Blonde Ale in the [Clone
   
   <tr>
     <td>
-      0.25 oz German Hallertau pellet hops<br /> <strong>(used another 0.25 oz East Kent Golding)</strong>
+      0.25 oz German Hallertau pellet hops **(used another 0.25 oz East Kent Golding)**
     </td>
     
     <td>
       15 minutes
     </td>
   </tr>
+</table>
+
+#### Other
   
-  <h4>
-    Other
-  </h4>
+<table class="brewtable">
+  <tr>
+    <td>
+      5x 15 oz cans of Farmer's Market organic pumpkin purée
+    </td>
+  </tr>
   
-  <table class="brewtable">
-    <tr>
-      <td>
-        5x 15 oz cans of Farmer's Market organic pumpkin purée
-      </td>
-    </tr>
+  <tr>
+    <td>
+      0.5 tsp ground allspice
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      1 tsp ground nutmeg
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      1 tsp ground cinnamon
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      1 tsp ground clove
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      1 tsp fresh grated ginger
+    </td>
+  </tr>
+</table>
+  
+#### Yeast
+  
+<table class="brewtable">
+  <tr>
+    <td>
+      2 packs Wyeast 1762 Belgian Abbey Ale II
+    </td>
+  </tr>
+</table> 
+  
+## Brewing Notes
+
+#### Timeline
+  
+  
+<table class="brewtable">
+  <tr>
+    <td>
+      Brewed
+    </td>
     
-    <tr>
-      <td>
-        0.5 tsp ground allspice
-      </td>
-    </tr>
+    <td>
+      August 31, 2016
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Spiced & Bottled
+    </td>
     
-    <tr>
-      <td>
-        1 tsp ground nutmeg
-      </td>
-    </tr>
+    <td>
+      October 12, 2016
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Tasted
+    </td>
     
-    <tr>
-      <td>
-        1 tsp ground cinnamon
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        1 tsp ground clove
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        1 tsp fresh grated ginger
-      </td>
-    </tr>
-  </table>
+    <td>
+      October 24, 2016
+    </td>
+  </tr>
+</table> 
   
-  <h4>
-    Yeast
-  </h4>
+![]({{ site.baseurl }}/images/posts/punkin-belgian-blonde-2016-4-517x500.jpg)
   
-  <table class="brewtable">
-    <tr>
-      <td>
-        2 packs Wyeast 1762 Belgian Abbey Ale II
-      </td>
-    </tr>
-  </table> 
-  
-  <h2>
-    Brewing Notes
-  </h2>
-  
-  <h4>
-    Timeline
-  </h4>
-  
-  <table class="brewtable">
-    <tr>
-      <td>
-        Brewed
-      </td>
-      
-      <td>
-        August 31, 2016
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        Spiced & Bottled
-      </td>
-      
-      <td>
-        October 12, 2016
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        Tasted
-      </td>
-      
-      <td>
-        October 24, 2016
-      </td>
-    </tr>
-  </table> 
-  
-  <p>
-    <img src="http://seattlehomebrew.com/wp-content/uploads/2016/08/IMG_5332-001-517x500.jpg" alt="" width="517" height="500" class="aligncenter" />
-  </p>
-  
-  <ul>
-    <li>
-      <strong>We changed our pumpkin strategy this year.</strong> For all of our previous pumpkin beers, we steeped the pumpkin purée along with crushed grain and removed it for the full boil.<br /> <br /> This year we added the pumpkin late, at 15 minutes as suggested in the [designing perfect pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/) article. This makes sense because that's when you add the flavoring hops. We used five 15 oz cans of pumpkin purée (75 oz), which is about 4½ pounds.
-    </li>
-    <li>
-      <strong>No spices during brewing.</strong> Usually we add spices right near the end of brewing. Instead, we're going off of one of the [tips on brewing pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/5-tips-brewing-pumpkin-beers-elysian-brewing-co/) from Elysian founder Dick Cantwell and head brewer Steve Luke, the kings of pumpkin beers.<br /> <br /> Our plan is to instead add the spices just before bottling, after tasting the beer and deciding on what combination of the "faithful 5" (cinnamon, nutmeg, allspice, ginger and clove) will go well with this beer. We'll find out if it's ok to add the spices and bottle without letting it rest first.
-    </li>
-    <li>
-      <strong>This might be terrible.</strong> It took us forever to schedule a day to bottle this beer and when we finally did, we were not happy with the flavor. Sour? Off flavors? Dirty squash aftertaste? So we didn't care to try multiple spice combinations and just added ~1 teaspoon of each of the "faithful 5" spices, except for allspice (½ tsp) which we've found to be overpowering in the past.
-    </li>
-  </ul>
+* **We changed our pumpkin strategy this year.** For all of our previous pumpkin beers, we steeped the pumpkin purée along with crushed grain and removed it for the full boil.   
+  This year we added the pumpkin late, at 15 minutes as suggested in the [designing perfect pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/designing-perfect-pumpkin-beer-recipe/) article. This makes sense because that's when you add the flavoring hops. We used five 15 oz cans of pumpkin purée (75 oz), which is about 4½ pounds.
+* **No spices during brewing.** Usually we add spices right near the end of brewing. Instead, we're going off of one of the [tips on brewing pumpkin beer](https://www.homebrewersassociation.org/how-to-brew/5-tips-brewing-pumpkin-beers-elysian-brewing-co/) from Elysian founder Dick Cantwell and head brewer Steve Luke, the kings of pumpkin beers.   
+  Our plan is to instead add the spices just before bottling, after tasting the beer and deciding on what combination of the "faithful 5" (cinnamon, nutmeg, allspice, ginger and clove) will go well with this beer. We'll find out if it's ok to add the spices and bottle without letting it rest first.
+* **This might be terrible.** It took us forever to schedule a day to bottle this beer and when we finally did, we were not happy with the flavor. Sour? Off flavors? Dirty squash aftertaste? So we didn't care to try multiple spice combinations and just added ~1 teaspoon of each of the "faithful 5" spices, except for allspice (½ tsp) which we've found to be overpowering in the past.
