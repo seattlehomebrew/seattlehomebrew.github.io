@@ -14,7 +14,7 @@ tags:
   - Peach
   - Saison
 ---
-<img src="/wp-content/uploads/2017/07/PeachSaison-5-715x500.jpg" class="aligncenter" />
+![Vive la Pêche Saison]({{ site.baseurl }}/images/posts/vive-la-peche-saison-1-715x500.jpg)
 
 The weather finally turned nice in Seattle and I hadn’t brewed anything yet in 2017, so I thought I’d take advantage of the 80+ degree weather for this long Memorial Day weekend and try brewing a Saison. I figured it will be nice to have on hand for the hot days ahead.
 
@@ -26,7 +26,7 @@ To make things interesting, I want to add peaches during fermentation, so this i
 
 ## Results
 
-<img src="/wp-content/uploads/2017/07/PeachSaison-6-500x500.jpg" class="aligncenter" /> 
+![]({{ site.baseurl }}/images/posts/vive-la-peche-saison-2-500x500.jpg)
 
 #### Overview
 
@@ -84,7 +84,7 @@ To make things interesting, I want to add peaches during fermentation, so this i
 
 ## Recipe
 
-<img src="/wp-content/uploads/2017/07/PeachSaison-2b-667x500.jpg" class="aligncenter" /> 
+![]({{ site.baseurl }}/images/posts/vive-la-peche-saison-3-667x500.jpg)
 
 I used up a bunch of old hops for this, so they weren't as fresh as you'd hope. But the homebrew shop was out of the Styrian Golding hops that I had hoped to use.
 
@@ -196,9 +196,9 @@ I used up a bunch of old hops for this, so they weren't as fresh as you'd hope. 
 
 ## Brewing Notes
 
-  * Added 6 lbs of pureed peach (weighed after puree) to about half (2.5 gallons) of the saison. Aged for 9 days.
-  * Blended 2 gallons of the peach saison (losing some to the puree) with 1 gallon of the un-peached saison. Bottled this 3 gallons, and then bottled another ~1 gallon of the remaining un-peached saison.
-  * Overall, lost about a gallon to the puree (which was too small) and general yeastiness at the bottom of the carboys.
+* Added 6 lbs of pureed peach (weighed after puree) to about half (2.5 gallons) of the saison. Aged for 9 days.
+* Blended 2 gallons of the peach saison (losing some to the puree) with 1 gallon of the un-peached saison. Bottled this 3 gallons, and then bottled another ~1 gallon of the remaining un-peached saison.
+* Overall, lost about a gallon to the puree (which was too small) and general yeastiness at the bottom of the carboys.
 
 #### Timeline
 
