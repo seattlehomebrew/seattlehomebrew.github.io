@@ -13,7 +13,7 @@ tags:
   - Brew Day
   - Tilt Hydrometer
 ---
-[<img src="/wp-content/uploads/2018/10/43499799534_762a874db8_b-750x500.jpg" class="aligncenter" />](https://www.flickr.com/photos/observerxtra/43499799534/)
+[![Semi-Sweet Hard Cider]({{ site.baseurl }}/images/posts/semi-sweet-hard-cider-1-480x500.jpg)](https://www.flickr.com/photos/observerxtra/43499799534/)
 
 Brewing a hard cider is pretty easy. You get some apple cider, add some yeast, and wait. The yeast does all of the work and eventually turns all of the sugars into alcohol, leaving you with a nice dry hard cider. Here's a great primer on [Cider for Beginners](https://www.homebrewtalk.com/forum/threads/cider-for-beginners.508303/).
 
@@ -23,8 +23,8 @@ Making _semi-sweet_ cider is a little bit harder. I've done this twice, but neve
 
 The main questions for making semi-sweet cider are:
 
-  1. **What kind of yeast to use?**
-  2. **How to make it semi-sweet?**
+1. **What kind of yeast to use?**
+2. **How to make it semi-sweet?**
 
 <!--more-->
 
@@ -36,9 +36,9 @@ I searched a bunch of online forums and dug up some notes on different yeasts. C
 
 My own short list of yeasts to try was:
 
-  * **Wyeast 3056 (Bavarian Wheat Blend)** — Can go up to 1.020 FG without being sticky sweet, and down to 1.002&#8209;1.004 for a dry cider. Needs a blowoff tube for a full carboy.
-  * **Safale S-04** — Target FG around 1.002-1.012. Has the finish/mouthfeel of a dry cider, but with more apple flavor. No blowoff tube needed.
-  * **Wyeast 3068 (Weihenstephan Wheat Yeast)** — Crowd-pleaser. Good for a sweet cider with an FG in the 1.020&#8209;1.025 range. Not good below 1.012. Needs a blowoff tube for a full carboy.
+* **Wyeast 3056 (Bavarian Wheat Blend)** — Can go up to 1.020 FG without being sticky sweet, and down to 1.002&#8209;1.004 for a dry cider. Needs a blowoff tube for a full carboy.
+* **Safale S-04** — Target FG around 1.002-1.012. Has the finish/mouthfeel of a dry cider, but with more apple flavor. No blowoff tube needed.
+* **Wyeast 3068 (Weihenstephan Wheat Yeast)** — Crowd-pleaser. Good for a sweet cider with an FG in the 1.020&#8209;1.025 range. Not good below 1.012. Needs a blowoff tube for a full carboy.
 
 I didn't want an overly sweet cider, so I ruled out Wyeast 3068 (too high of a final gravity). I ended up deciding on Wyeast 3056 (which CvilleKevin listed as his favorite our of these three), but would have grabbed Safale S-04 if the homebrew store was out of the Wyeast packs.
 
@@ -56,20 +56,21 @@ Since I planned to stop fermentation early, I also wanted to make sure that the 
 
 To bump up my starting gravity I added plain white table sugar. For an increase of 0.005 points of gravity, add 2.25oz of table sugar per gallon. To get an additional 0.010 points of gravity for my 2 gallon batch of cider, I added 9oz of table sugar.
 
-<pre>(1.060-1.050 / 0.005) / x 2 gallons x 2.25oz sugar/gallon</pre>
+```
+(1.060-1.050 / 0.005) / x 2 gallons x 2.25oz sugar/gallon
+```
 
 This sugar addition had nothing to do with wanting sweeter cider, and was done solely to increase the ABV.
 
 ## Results
 
-<img src="/wp-content/uploads/2019/08/cider2018_3-500x500.jpg" class="aligncenter" /> 
+![]({{ site.baseurl }}/images/posts/semi-sweet-hard-cider-2-500x500.jpg)
 
 <table class="brewtable">
   <tr>
     <td>
       Cider base gravity:
     </td>
-    
     <td>
       1.050
     </td>
@@ -79,7 +80,6 @@ This sugar addition had nothing to do with wanting sweeter cider, and was done s
     <td>
       Starting gravity (target):
     </td>
-    
     <td>
       1.060
     </td>
@@ -89,7 +89,6 @@ This sugar addition had nothing to do with wanting sweeter cider, and was done s
     <td>
       Starting gravity (actual):
     </td>
-    
     <td>
       1.060
     </td>
@@ -99,7 +98,6 @@ This sugar addition had nothing to do with wanting sweeter cider, and was done s
     <td>
       Final gravity (target):
     </td>
-    
     <td>
       1.010-1.015
     </td>
@@ -109,7 +107,6 @@ This sugar addition had nothing to do with wanting sweeter cider, and was done s
     <td>
       Final gravity (actual):
     </td>
-    
     <td>
       1.010
     </td>
@@ -119,7 +116,6 @@ This sugar addition had nothing to do with wanting sweeter cider, and was done s
     <td>
       ABV
     </td>
-    
     <td>
       ~6%
     </td>
@@ -177,17 +173,15 @@ This sugar addition had nothing to do with wanting sweeter cider, and was done s
     <td>
       "Brewed"
     </td>
-    
     <td>
       October 13, 2018
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Kegged
     </td>
-    
     <td>
       October 24, 2018
     </td>
