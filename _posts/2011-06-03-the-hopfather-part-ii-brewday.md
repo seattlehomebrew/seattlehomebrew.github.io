@@ -34,7 +34,9 @@ This is the real Hopfather recipe from Sam Calagione's [_Extreme Brewing_](https
   * Final gravity (expected) 
       * 1.012-1.014
 
-<img src="http://farm7.static.flickr.com/6052/5901588359_d2685d9ed0.jpg" alt="The Hop (Hot) Father" class="aligncenter" /> 
+<!---
+![The Hop (Hot) Father](http://farm7.static.flickr.com/6052/5901588359_d2685d9ed0.jpg)
+-->
 
 These amazing labels were made for us, thinking the name of the beer was "Hot Father" instead of "Hopfather"; At first taste, the beer is fantastic and hoppy but needs a little more time to carbonate. 
 

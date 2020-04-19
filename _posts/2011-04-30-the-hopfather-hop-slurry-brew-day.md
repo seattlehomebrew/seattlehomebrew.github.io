@@ -16,7 +16,9 @@ tags:
   - IPA
   - All Grain
 ---
-<img src="http://farm3.static.flickr.com/2690/5794782187_1dee3b998d.jpg" class="aligncenter" />
+<!--
+![The Hopfather](http://farm3.static.flickr.com/2690/5794782187_1dee3b998d.jpg)
+-->
 
 This was a disaster.
 
