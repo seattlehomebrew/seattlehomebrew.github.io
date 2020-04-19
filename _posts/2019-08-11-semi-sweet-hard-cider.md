@@ -56,7 +56,7 @@ Since I planned to stop fermentation early, I also wanted to make sure that the 
 
 To bump up my starting gravity I added plain white table sugar. For an increase of 0.005 points of gravity, add 2.25oz of table sugar per gallon. To get an additional 0.010 points of gravity for my 2 gallon batch of cider, I added 9oz of table sugar.
 
-    (1.060-1.050 / 0.005) / x 2 gallons x 2.25oz sugar/gallon
+`(1.060-1.050 / 0.005) / x 2 gallons x 2.25oz sugar/gallon`
 
 
 This sugar addition had nothing to do with wanting sweeter cider, and was done solely to increase the ABV.
